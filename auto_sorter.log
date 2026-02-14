@@ -1,0 +1,634 @@
+2026-02-14 14:23:20,932 - INFO - Auto-sorter started. Monitoring C:\Users\Lenovo\Downloads every 60s...
+2026-02-14 14:23:20,940 - INFO - Moved: '.pdf -> Documents/'.pdf
+2026-02-14 14:23:20,942 - INFO - Moved: --75---105---109---32---65---110---100---114---101---105---32---66---101---115---109---97---114-2220009-ub-edu-ph-6215aa30-9dd4-4313-8447-a291b4b8cf43.pdf -> Documents/--75---105---109---32---65---110---100---114---101---105---32---66---101---115---109---97---114-2220009-ub-edu-ph-6215aa30-9dd4-4313-8447-a291b4b8cf43.pdf
+2026-02-14 14:23:20,945 - INFO - Moved: 0026bf10-5bd2-4e32-b508-de6047bdbf95.jfif -> Others/0026bf10-5bd2-4e32-b508-de6047bdbf95.jfif
+2026-02-14 14:23:20,948 - INFO - Moved: 03193769-f906-4338-a5b1-e18313ba6258.m4a -> Others/03193769-f906-4338-a5b1-e18313ba6258.m4a
+2026-02-14 14:23:20,951 - INFO - Moved: 03399fcf-104f-4f8c-92f8-ca24064fcf6e.jfif -> Others/03399fcf-104f-4f8c-92f8-ca24064fcf6e.jfif
+2026-02-14 14:23:20,951 - INFO - Moved: 0c8a75a8-8699-4348-bb03-803e3be82373.jfif -> Others/0c8a75a8-8699-4348-bb03-803e3be82373.jfif
+2026-02-14 14:23:20,951 - INFO - Moved: 1.png -> Pictures/1.png
+2026-02-14 14:23:20,956 - INFO - Moved: 10.png -> Pictures/10.png
+2026-02-14 14:23:20,957 - INFO - Moved: 11.png -> Pictures/11.png
+2026-02-14 14:23:20,959 - INFO - Moved: 11561557682567.png -> Pictures/11561557682567.png
+2026-02-14 14:23:20,961 - INFO - Moved: 12.png -> Pictures/12.png
+2026-02-14 14:23:20,964 - INFO - Moved: 13.png -> Pictures/13.png
+2026-02-14 14:23:20,966 - INFO - Moved: 14.png -> Pictures/14.png
+2026-02-14 14:23:20,966 - INFO - Moved: 1a4ca9ed-9acc-4ea8-a573-fde27794b311.jpg -> Pictures/1a4ca9ed-9acc-4ea8-a573-fde27794b311.jpg
+2026-02-14 14:23:20,969 - INFO - Moved: 1copy.pdf -> Documents/1copy.pdf
+2026-02-14 14:23:20,972 - INFO - Moved: 1copy_A4 (1).pdf -> Documents/1copy_A4 (1).pdf
+2026-02-14 14:23:20,972 - INFO - Moved: 1copy_A4.pdf -> Documents/1copy_A4.pdf
+2026-02-14 14:23:20,975 - INFO - Moved: 2.png -> Pictures/2.png
+2026-02-14 14:23:20,975 - INFO - Moved: 2._Kraft_Australia.pdf -> Documents/2._Kraft_Australia.pdf
+2026-02-14 14:23:20,979 - INFO - Moved: 2026-hyundai-tucson-hybrid-pr-101-68a38aa37ded6.avif -> Others/2026-hyundai-tucson-hybrid-pr-101-68a38aa37ded6.avif
+2026-02-14 14:23:20,982 - INFO - Moved: 2c48ee9f-6dbe-450d-84bf-88bc4069f485.jpg -> Pictures/2c48ee9f-6dbe-450d-84bf-88bc4069f485.jpg
+2026-02-14 14:23:20,984 - INFO - Moved: 2c7bd979-7bdc-4b6b-b06e-b94777bde833 (1).jpg -> Pictures/2c7bd979-7bdc-4b6b-b06e-b94777bde833 (1).jpg
+2026-02-14 14:23:20,986 - INFO - Moved: 2c7bd979-7bdc-4b6b-b06e-b94777bde833.jpg -> Pictures/2c7bd979-7bdc-4b6b-b06e-b94777bde833.jpg
+2026-02-14 14:23:20,986 - INFO - Moved: 3.png -> Pictures/3.png
+2026-02-14 14:23:20,990 - INFO - Moved: 3064853d-0932-4b4b-9180-0a1f528b3852.jfif -> Others/3064853d-0932-4b4b-9180-0a1f528b3852.jfif
+2026-02-14 14:23:20,992 - INFO - Moved: 32second_suggestive_romcom_1080p_2026021019.mp4 -> Video/32second_suggestive_romcom_1080p_2026021019.mp4
+2026-02-14 14:23:20,992 - INFO - Moved: 34715f81-b601-443c-8611-e39a5e3fc304.jfif -> Others/34715f81-b601-443c-8611-e39a5e3fc304.jfif
+2026-02-14 14:23:20,995 - INFO - Moved: 4.png -> Pictures/4.png
+2026-02-14 14:23:20,996 - INFO - Moved: 404 Not Found.html -> Others/404 Not Found.html
+2026-02-14 14:23:20,999 - INFO - Moved: 4308d6cc-1792-470c-b99b-391201efe194.jpg -> Pictures/4308d6cc-1792-470c-b99b-391201efe194.jpg
+2026-02-14 14:23:21,000 - INFO - Moved: 4621c899-44c5-4ca9-8141-0e9d329b3a5f.jfif -> Others/4621c899-44c5-4ca9-8141-0e9d329b3a5f.jfif
+2026-02-14 14:23:21,000 - INFO - Moved: 496713918_717535453996527_173330793025182164_n.jpg -> Pictures/496713918_717535453996527_173330793025182164_n.jpg
+2026-02-14 14:23:21,005 - INFO - Moved: 4b1dd1c2-af85-45e1-9c54-219d3b5fc16b.jfif -> Others/4b1dd1c2-af85-45e1-9c54-219d3b5fc16b.jfif
+2026-02-14 14:23:21,006 - INFO - Moved: 4dd7628b-c7cc-4b93-8e63-c7f4e678ee46.jfif -> Others/4dd7628b-c7cc-4b93-8e63-c7f4e678ee46.jfif
+2026-02-14 14:23:21,009 - INFO - Moved: 5.png -> Pictures/5.png
+2026-02-14 14:23:21,011 - INFO - Moved: 508147639_703941615874543_7996162217395788456_n (1).jpg -> Pictures/508147639_703941615874543_7996162217395788456_n (1).jpg
+2026-02-14 14:23:21,014 - INFO - Moved: 508147639_703941615874543_7996162217395788456_n.jpg -> Pictures/508147639_703941615874543_7996162217395788456_n.jpg
+2026-02-14 14:23:21,016 - INFO - Moved: 521450944_633717535876907_5030435776018155603_n.jpg -> Pictures/521450944_633717535876907_5030435776018155603_n.jpg
+2026-02-14 14:23:21,018 - INFO - Moved: 521948856_3934857466731925_7519495975415038413_n.jpg -> Pictures/521948856_3934857466731925_7519495975415038413_n.jpg
+2026-02-14 14:23:21,019 - INFO - Moved: 523145996_1472959230392121_5980242600789919001_n.jpg -> Pictures/523145996_1472959230392121_5980242600789919001_n.jpg
+2026-02-14 14:23:21,022 - INFO - Moved: 523556620_2909114365939283_1690505409511907296_n.jpg -> Pictures/523556620_2909114365939283_1690505409511907296_n.jpg
+2026-02-14 14:23:21,024 - INFO - Moved: 524110294_1646832422662101_1246507072510691532_n.jpg -> Pictures/524110294_1646832422662101_1246507072510691532_n.jpg
+2026-02-14 14:23:21,027 - INFO - Moved: 524300332_1970050440499157_4174911067394124231_n.jpg -> Pictures/524300332_1970050440499157_4174911067394124231_n.jpg
+2026-02-14 14:23:21,028 - INFO - Moved: 524974614_1805842090035086_7297069715355488263_n.jpg -> Pictures/524974614_1805842090035086_7297069715355488263_n.jpg
+2026-02-14 14:23:21,030 - INFO - Moved: 526209146_718735481155021_1955722620368090771_n.jpg -> Pictures/526209146_718735481155021_1955722620368090771_n.jpg
+2026-02-14 14:23:21,032 - INFO - Moved: 541050801_1112197527003473_2694423352874383286_n.jpg -> Pictures/541050801_1112197527003473_2694423352874383286_n.jpg
+2026-02-14 14:23:21,034 - INFO - Moved: 552616638_809293744844570_6032084538030630134_n.jpg -> Pictures/552616638_809293744844570_6032084538030630134_n.jpg
+2026-02-14 14:23:21,036 - INFO - Moved: 552658742_1455380392421446_1020571736753907528_n.jpg -> Pictures/552658742_1455380392421446_1020571736753907528_n.jpg
+2026-02-14 14:23:21,036 - INFO - Moved: 552990840_1184536543597700_8018183276937321726_n.jpg -> Pictures/552990840_1184536543597700_8018183276937321726_n.jpg
+2026-02-14 14:23:21,039 - INFO - Moved: 553281341_831717205956959_5767283750014688516_n.jpg -> Pictures/553281341_831717205956959_5767283750014688516_n.jpg
+2026-02-14 14:23:21,040 - INFO - Moved: 553837128_1164617435732320_1434804238907156334_n.jpg -> Pictures/553837128_1164617435732320_1434804238907156334_n.jpg
+2026-02-14 14:23:21,042 - INFO - Moved: 554680266_1366083335035405_5651732905857450455_n.jpg -> Pictures/554680266_1366083335035405_5651732905857450455_n.jpg
+2026-02-14 14:23:21,045 - INFO - Moved: 565337151_991390896496366_3125836088696565849_n.jpg -> Pictures/565337151_991390896496366_3125836088696565849_n.jpg
+2026-02-14 14:23:21,048 - INFO - Moved: 566244422_1328592648736468_6345988471911838011_n.jpg -> Pictures/566244422_1328592648736468_6345988471911838011_n.jpg
+2026-02-14 14:23:21,049 - INFO - Moved: 566456760_2388374304911465_3084835775290397123_n.png -> Pictures/566456760_2388374304911465_3084835775290397123_n.png
+2026-02-14 14:23:21,053 - INFO - Moved: 566d63cd-63f5-4287-81fd-36a9b7ba71a4.jfif -> Others/566d63cd-63f5-4287-81fd-36a9b7ba71a4.jfif
+2026-02-14 14:23:21,053 - INFO - Moved: 580570167_869663912251824_1377992676771300529_n.jpg -> Pictures/580570167_869663912251824_1377992676771300529_n.jpg
+2026-02-14 14:23:21,057 - INFO - Moved: 581056718_869663642251851_3419424366745783812_n.jpg -> Pictures/581056718_869663642251851_3419424366745783812_n.jpg
+2026-02-14 14:23:21,057 - INFO - Moved: 581618701_869663528918529_3027408899671463234_n.jpg -> Pictures/581618701_869663528918529_3027408899671463234_n.jpg
+2026-02-14 14:23:21,060 - INFO - Moved: 581664504_869664068918475_8856148749806267018_n.jpg -> Pictures/581664504_869664068918475_8856148749806267018_n.jpg
+2026-02-14 14:23:21,063 - INFO - Moved: 581958695_869663788918503_1765661602716625364_n.jpg -> Pictures/581958695_869663788918503_1765661602716625364_n.jpg
+2026-02-14 14:23:21,064 - INFO - Moved: 581960734_869663742251841_6299976952274808890_n.jpg -> Pictures/581960734_869663742251841_6299976952274808890_n.jpg
+2026-02-14 14:23:21,066 - INFO - Moved: 582961660_869663425585206_8046798882540951580_n.jpg -> Pictures/582961660_869663425585206_8046798882540951580_n.jpg
+2026-02-14 14:23:21,068 - INFO - Moved: 583327067_869663958918486_5780154713713774412_n.jpg -> Pictures/583327067_869663958918486_5780154713713774412_n.jpg
+2026-02-14 14:23:21,069 - INFO - Moved: 583735296_869664032251812_110881398858562578_n.jpg -> Pictures/583735296_869664032251812_110881398858562578_n.jpg
+2026-02-14 14:23:21,072 - INFO - Moved: 583adb73-5c7a-40e3-af49-fd13c10356b7.jfif -> Others/583adb73-5c7a-40e3-af49-fd13c10356b7.jfif
+2026-02-14 14:23:21,072 - INFO - Moved: 583adb73-5c7a-40e3-af49-fd13c10356b7.jpg -> Pictures/583adb73-5c7a-40e3-af49-fd13c10356b7.jpg
+2026-02-14 14:23:21,075 - INFO - Moved: 583adb73-5c7a-40e3-af49-fd13c10356b7.png -> Pictures/583adb73-5c7a-40e3-af49-fd13c10356b7.png
+2026-02-14 14:23:21,075 - INFO - Moved: 5916-14493-1-PB.pdf -> Documents/5916-14493-1-PB.pdf
+2026-02-14 14:23:21,079 - INFO - Moved: 5b345d61-3d28-43fd-a2ea-80b6163dca36.jfif -> Others/5b345d61-3d28-43fd-a2ea-80b6163dca36.jfif
+2026-02-14 14:23:21,080 - INFO - Moved: 6.png -> Pictures/6.png
+2026-02-14 14:23:21,084 - INFO - Moved: 60f59288-0e7d-467f-8911-109caa8bc21a.jfif -> Others/60f59288-0e7d-467f-8911-109caa8bc21a.jfif
+2026-02-14 14:23:21,086 - INFO - Moved: 633278f9-4301-4240-87c8-207ee4b79266.jfif -> Others/633278f9-4301-4240-87c8-207ee4b79266.jfif
+2026-02-14 14:23:21,086 - INFO - Moved: 644b543740f12650840483fb_Tailored_Web Images – 10.png -> Pictures/644b543740f12650840483fb_Tailored_Web Images – 10.png
+2026-02-14 14:23:21,090 - INFO - Moved: 6726a42f-37b3-4eb7-a49a-5d410192669b.jfif -> Others/6726a42f-37b3-4eb7-a49a-5d410192669b.jfif
+2026-02-14 14:23:21,090 - INFO - Moved: 6c454c9c-8c69-4338-82b5-eb086028d138.m4a -> Others/6c454c9c-8c69-4338-82b5-eb086028d138.m4a
+2026-02-14 14:23:21,093 - INFO - Moved: 7.png -> Pictures/7.png
+2026-02-14 14:23:21,095 - INFO - Moved: 75a98dab-a3a0-4b4d-8c52-bd9d704f9fad.jfif -> Others/75a98dab-a3a0-4b4d-8c52-bd9d704f9fad.jfif
+2026-02-14 14:23:21,096 - INFO - Moved: 783841a9-fcb1-4ce2-8dcd-2785231c2fad.jpg -> Pictures/783841a9-fcb1-4ce2-8dcd-2785231c2fad.jpg
+2026-02-14 14:23:21,099 - INFO - Moved: 7f01fae4-6af2-468d-a1f6-97e55735d3da.jfif -> Others/7f01fae4-6af2-468d-a1f6-97e55735d3da.jfif
+2026-02-14 14:23:21,100 - INFO - Moved: 8.png -> Pictures/8.png
+2026-02-14 14:23:21,100 - INFO - Moved: 800cfe3e-005d-4a39-8f06-940a62854c5f.jfif -> Others/800cfe3e-005d-4a39-8f06-940a62854c5f.jfif
+2026-02-14 14:23:21,100 - INFO - Moved: 800cfe3e-005d-4a39-8f06-940a62854c5f.png -> Pictures/800cfe3e-005d-4a39-8f06-940a62854c5f.png
+2026-02-14 14:23:21,107 - INFO - Moved: 825dd7a2-37a0-463d-9f8d-03e745f081b8.jfif -> Others/825dd7a2-37a0-463d-9f8d-03e745f081b8.jfif
+2026-02-14 14:23:21,109 - INFO - Moved: 835c8ba4-04e2-467e-a54a-7f2a33ea6765.jfif -> Others/835c8ba4-04e2-467e-a54a-7f2a33ea6765.jfif
+2026-02-14 14:23:21,111 - INFO - Moved: 84932bf4-518f-41b7-8b3b-35ab935dc667.jfif -> Others/84932bf4-518f-41b7-8b3b-35ab935dc667.jfif
+2026-02-14 14:23:21,114 - INFO - Moved: 8979jg.md -> Documents/8979jg.md
+2026-02-14 14:23:21,116 - INFO - Moved: 8a94e08d-851e-4dca-96e1-77f9f20ce590.jpg -> Pictures/8a94e08d-851e-4dca-96e1-77f9f20ce590.jpg
+2026-02-14 14:23:21,118 - INFO - Moved: 8bcaf7fa-185d-4a98-97e5-651fc53fb0bd.jfif -> Others/8bcaf7fa-185d-4a98-97e5-651fc53fb0bd.jfif
+2026-02-14 14:23:21,119 - INFO - Moved: 8dff4b18-b6db-40ad-b366-1ba7d201ae9b.jfif -> Others/8dff4b18-b6db-40ad-b366-1ba7d201ae9b.jfif
+2026-02-14 14:23:21,122 - INFO - Moved: 9.png -> Pictures/9.png
+2026-02-14 14:23:21,124 - INFO - Moved: 9b95f389-ad4c-4c58-93aa-f65e9dd7e69d.jfif -> Others/9b95f389-ad4c-4c58-93aa-f65e9dd7e69d.jfif
+2026-02-14 14:23:21,126 - INFO - Moved: a.htm -> Others/a.htm
+2026-02-14 14:23:21,128 - INFO - Moved: a15ee1ee-777a-4147-b307-737d09eb8e44.png -> Pictures/a15ee1ee-777a-4147-b307-737d09eb8e44.png
+2026-02-14 14:23:21,130 - INFO - Moved: aaa.png -> Pictures/aaa.png
+2026-02-14 14:23:21,133 - INFO - Moved: ada5d555-96de-4dd1-92ab-f9e3afc32fa8.jpg -> Pictures/ada5d555-96de-4dd1-92ab-f9e3afc32fa8.jpg
+2026-02-14 14:23:21,134 - INFO - Moved: Add a heading.png -> Pictures/Add a heading.png
+2026-02-14 14:23:21,137 - INFO - Moved: adrenaline.jpg -> Pictures/adrenaline.jpg
+2026-02-14 14:23:21,137 - INFO - Moved: al schema.txt -> Documents/al schema.txt
+2026-02-14 14:23:21,140 - INFO - Moved: all data.sql -> Others/all data.sql
+2026-02-14 14:23:21,142 - INFO - Moved: all schema.sql -> Others/all schema.sql
+2026-02-14 14:23:21,145 - INFO - Moved: AndreiKim.pdf -> Documents/AndreiKim.pdf
+2026-02-14 14:23:21,147 - INFO - Moved: Antigravity.exe -> Others/Antigravity.exe
+2026-02-14 14:23:21,149 - INFO - Moved: apache-couchdb-3.5.1.msi -> Others/apache-couchdb-3.5.1.msi
+2026-02-14 14:23:21,150 - INFO - Moved: app.js -> Scripts/app.js
+2026-02-14 14:23:21,150 - INFO - Moved: AppImages.zip -> Archives/AppImages.zip
+2026-02-14 14:23:21,159 - INFO - Moved: Apple.mp4 -> Video/Apple.mp4
+2026-02-14 14:23:21,160 - INFO - Moved: applsci-12-12948.pdf -> Documents/applsci-12-12948.pdf
+2026-02-14 14:23:21,164 - INFO - Moved: aquabest-20250730T080315Z-1-001.zip -> Archives/aquabest-20250730T080315Z-1-001.zip
+2026-02-14 14:23:21,164 - INFO - Moved: asd.png -> Pictures/asd.png
+2026-02-14 14:23:21,166 - INFO - Moved: assetlinks.json -> Others/assetlinks.json
+2026-02-14 14:23:21,169 - INFO - Moved: assssaaa.jpg -> Pictures/assssaaa.jpg
+2026-02-14 14:23:21,172 - INFO - Moved: Attached_image.png -> Pictures/Attached_image.png
+2026-02-14 14:23:21,172 - INFO - Moved: audio_2025-11-30_23-29-52.ogg -> Others/audio_2025-11-30_23-29-52.ogg
+2026-02-14 14:23:21,177 - INFO - Moved: Awros (1).zip -> Archives/Awros (1).zip
+2026-02-14 14:23:21,178 - INFO - Moved: Awros(OLD).zip -> Archives/Awros(OLD).zip
+2026-02-14 14:23:21,180 - INFO - Moved: Awros.zip -> Archives/Awros.zip
+2026-02-14 14:23:21,182 - INFO - Moved: b75dd13f-bc9a-493d-899f-36dc825d30d7.jfif -> Others/b75dd13f-bc9a-493d-899f-36dc825d30d7.jfif
+2026-02-14 14:23:21,183 - INFO - Moved: bagyo magasin (1).pdf -> Documents/bagyo magasin (1).pdf
+2026-02-14 14:23:21,186 - INFO - Moved: bagyo magasin (1).zip -> Archives/bagyo magasin (1).zip
+2026-02-14 14:23:21,186 - INFO - Moved: bagyo magasin.pdf -> Documents/bagyo magasin.pdf
+2026-02-14 14:23:21,186 - INFO - Moved: bagyo magasin.zip -> Archives/bagyo magasin.zip
+2026-02-14 14:23:21,190 - INFO - Moved: be03c06bfbd645ce88cfe2a0569eda86~tplv-jj85edgx6n-image-origin.jpeg -> Pictures/be03c06bfbd645ce88cfe2a0569eda86~tplv-jj85edgx6n-image-origin.jpeg
+2026-02-14 14:23:21,192 - INFO - Moved: Beige and Green Rustic Modern Podcast Player Portrait Instagram Post (1).mp4 -> Video/Beige and Green Rustic Modern Podcast Player Portrait Instagram Post (1).mp4
+2026-02-14 14:23:21,195 - INFO - Moved: Beige and Green Rustic Modern Podcast Player Portrait Instagram Post (2).mp4 -> Video/Beige and Green Rustic Modern Podcast Player Portrait Instagram Post (2).mp4
+2026-02-14 14:23:21,196 - INFO - Moved: Beige and Green Rustic Modern Podcast Player Portrait Instagram Post (3).mp4 -> Video/Beige and Green Rustic Modern Podcast Player Portrait Instagram Post (3).mp4
+2026-02-14 14:23:21,200 - INFO - Moved: Beige and Green Rustic Modern Podcast Player Portrait Instagram Post (4).mp4 -> Video/Beige and Green Rustic Modern Podcast Player Portrait Instagram Post (4).mp4
+2026-02-14 14:23:21,201 - INFO - Moved: Beige and Green Rustic Modern Podcast Player Portrait Instagram Post.mp4 -> Video/Beige and Green Rustic Modern Podcast Player Portrait Instagram Post.mp4
+2026-02-14 14:23:21,201 - INFO - Moved: Besmar Kim Andrei M.jpg -> Pictures/Besmar Kim Andrei M.jpg
+2026-02-14 14:23:21,201 - INFO - Moved: Besmar, Kim Andrei M..mp4 -> Video/Besmar, Kim Andrei M..mp4
+2026-02-14 14:23:21,207 - INFO - Moved: Besmar, Kim Andrei.pdf -> Documents/Besmar, Kim Andrei.pdf
+2026-02-14 14:23:21,207 - INFO - Moved: Besmar.png -> Pictures/Besmar.png
+2026-02-14 14:23:21,210 - INFO - Moved: BESMAR_FEATURE_WRITING.pdf -> Documents/BESMAR_FEATURE_WRITING.pdf
+2026-02-14 14:23:21,213 - INFO - Moved: birthday-song.m4a -> Others/birthday-song.m4a
+2026-02-14 14:23:21,215 - INFO - Moved: Block Diagram LTO BLOCKCHAIN (1).jpeg -> Pictures/Block Diagram LTO BLOCKCHAIN (1).jpeg
+2026-02-14 14:23:21,216 - INFO - Moved: Block Diagram LTO BLOCKCHAIN (2).jpeg -> Pictures/Block Diagram LTO BLOCKCHAIN (2).jpeg
+2026-02-14 14:23:21,219 - INFO - Moved: Block Diagram LTO BLOCKCHAIN.jpeg -> Pictures/Block Diagram LTO BLOCKCHAIN.jpeg
+2026-02-14 14:23:21,219 - INFO - Moved: blockchain capstone (1).pdf -> Documents/blockchain capstone (1).pdf
+2026-02-14 14:23:21,222 - INFO - Moved: blockchain capstone (10).pdf -> Documents/blockchain capstone (10).pdf
+2026-02-14 14:23:21,224 - INFO - Moved: blockchain capstone (11).pdf -> Documents/blockchain capstone (11).pdf
+2026-02-14 14:23:21,226 - INFO - Moved: blockchain capstone (12).pdf -> Documents/blockchain capstone (12).pdf
+2026-02-14 14:23:21,228 - INFO - Moved: blockchain capstone (13).pdf -> Documents/blockchain capstone (13).pdf
+2026-02-14 14:23:21,230 - INFO - Moved: blockchain capstone (2).pdf -> Documents/blockchain capstone (2).pdf
+2026-02-14 14:23:21,232 - INFO - Moved: blockchain capstone (3).pdf -> Documents/blockchain capstone (3).pdf
+2026-02-14 14:23:21,233 - INFO - Moved: blockchain capstone (4).pdf -> Documents/blockchain capstone (4).pdf
+2026-02-14 14:23:21,234 - INFO - Moved: blockchain capstone (5) (1).pdf -> Documents/blockchain capstone (5) (1).pdf
+2026-02-14 14:23:21,236 - INFO - Moved: blockchain capstone (5) (2).pdf -> Documents/blockchain capstone (5) (2).pdf
+2026-02-14 14:23:21,236 - INFO - Moved: blockchain capstone (5).pdf -> Documents/blockchain capstone (5).pdf
+2026-02-14 14:23:21,240 - INFO - Moved: blockchain capstone (6).pdf -> Documents/blockchain capstone (6).pdf
+2026-02-14 14:23:21,240 - INFO - Moved: blockchain capstone (7).pdf -> Documents/blockchain capstone (7).pdf
+2026-02-14 14:23:21,242 - INFO - Moved: blockchain capstone (8).pdf -> Documents/blockchain capstone (8).pdf
+2026-02-14 14:23:21,245 - INFO - Moved: blockchain capstone (9).pdf -> Documents/blockchain capstone (9).pdf
+2026-02-14 14:23:21,246 - INFO - Moved: blockchain capstone.docx -> Documents/blockchain capstone.docx
+2026-02-14 14:23:21,246 - INFO - Moved: blockchain capstone.pdf -> Documents/blockchain capstone.pdf
+2026-02-14 14:23:21,249 - INFO - Moved: blockchain capstone.txt -> Documents/blockchain capstone.txt
+2026-02-14 14:23:21,250 - INFO - Moved: Blockchain Government Services on DigitalOcean.pdf -> Documents/Blockchain Government Services on DigitalOcean.pdf
+2026-02-14 14:23:21,251 - INFO - Moved: Blockchain in LTO Vehicle Registration (Responses).xlsx -> Documents/Blockchain in LTO Vehicle Registration (Responses).xlsx
+2026-02-14 14:23:21,251 - INFO - Moved: Blockchain in LTO Vehicle Registration Survey findings.pdf -> Documents/Blockchain in LTO Vehicle Registration Survey findings.pdf
+2026-02-14 14:23:21,251 - INFO - Moved: Blockchain in LTO.pdf -> Documents/Blockchain in LTO.pdf
+2026-02-14 14:23:21,257 - INFO - Moved: Blockchain in Vehicle Registration and Licensing (LTO Context).pdf -> Documents/Blockchain in Vehicle Registration and Licensing (LTO Context).pdf
+2026-02-14 14:23:21,259 - INFO - Moved: Blockchain Vehicle Registration Rrl (1).pdf -> Documents/Blockchain Vehicle Registration Rrl (1).pdf
+2026-02-14 14:23:21,260 - INFO - Moved: Blockchain Vehicle Registration Rrl.pdf -> Documents/Blockchain Vehicle Registration Rrl.pdf
+2026-02-14 14:23:21,260 - INFO - Moved: Blockchain-Based Vehicle Registration_ A Review of Related Literature.pdf -> Documents/Blockchain-Based Vehicle Registration_ A Review of Related Literature.pdf
+2026-02-14 14:23:21,264 - INFO - Moved: blockchain.pdf -> Documents/blockchain.pdf
+2026-02-14 14:23:21,265 - INFO - Moved: blockchain_chapter3_fixed.pdf -> Documents/blockchain_chapter3_fixed.pdf
+2026-02-14 14:23:21,266 - INFO - Moved: blockchain_integration_in_lto_vehicle_registration_system.docx -> Documents/blockchain_integration_in_lto_vehicle_registration_system.docx
+2026-02-14 14:23:21,269 - INFO - Moved: Blockchain_in_LTO_Vehicle_Registration (1).pdf -> Documents/Blockchain_in_LTO_Vehicle_Registration (1).pdf
+2026-02-14 14:23:21,271 - INFO - Moved: Blockchain_in_LTO_Vehicle_Registration.pdf -> Documents/Blockchain_in_LTO_Vehicle_Registration.pdf
+2026-02-14 14:23:21,272 - INFO - Moved: Blue Professional Business Card.zip -> Archives/Blue Professional Business Card.zip
+2026-02-14 14:23:21,276 - INFO - Moved: Blue Vintage House Address Number Sign Rectangle Sticker (1).png -> Pictures/Blue Vintage House Address Number Sign Rectangle Sticker (1).png
+2026-02-14 14:23:21,276 - INFO - Moved: Blue Vintage House Address Number Sign Rectangle Sticker.png -> Pictures/Blue Vintage House Address Number Sign Rectangle Sticker.png
+2026-02-14 14:23:21,276 - INFO - Moved: BMC DRAFTS.pdf -> Documents/BMC DRAFTS.pdf
+2026-02-14 14:23:21,276 - INFO - Moved: BraveBrowserSetup-BRV011.exe -> Others/BraveBrowserSetup-BRV011.exe
+2026-02-14 14:23:21,276 - INFO - Moved: Brown Cream Illustration Coffee Powder Product Label (8 x 4 in).pdf -> Documents/Brown Cream Illustration Coffee Powder Product Label (8 x 4 in).pdf
+2026-02-14 14:23:21,276 - INFO - Moved: BT-23.160.0-64UWD-Win10-Win11.exe -> Others/BT-23.160.0-64UWD-Win10-Win11.exe
+2026-02-14 14:23:21,287 - INFO - Moved: BT-23.40.0-64UWD-Win10-Win11.exe -> Others/BT-23.40.0-64UWD-Win10-Win11.exe
+2026-02-14 14:23:21,287 - INFO - Moved: BUDGET APP.zip -> Archives/BUDGET APP.zip
+2026-02-14 14:23:21,290 - INFO - Moved: budget-tracker-app.tsx -> Others/budget-tracker-app.tsx
+2026-02-14 14:23:21,295 - INFO - Moved: Building a Vehicle Registration System with Hyperledger Fabric.pdf -> Documents/Building a Vehicle Registration System with Hyperledger Fabric.pdf
+2026-02-14 14:23:21,296 - INFO - Moved: Business Model Whiteboard.png -> Pictures/Business Model Whiteboard.png
+2026-02-14 14:23:21,299 - INFO - Moved: Business_Model_Canvas.png -> Pictures/Business_Model_Canvas.png
+2026-02-14 14:23:21,301 - INFO - Moved: c9f3a953-36a8-4f65-8616-72092cbe2c5f.jfif -> Others/c9f3a953-36a8-4f65-8616-72092cbe2c5f.jfif
+2026-02-14 14:23:21,301 - INFO - Moved: c9f3a953-36a8-4f65-8616-72092cbe2c5f.png -> Pictures/c9f3a953-36a8-4f65-8616-72092cbe2c5f.png
+2026-02-14 14:23:21,301 - INFO - Moved: CapCut_7559602489692274749_installer.exe -> Others/CapCut_7559602489692274749_installer.exe
+2026-02-14 14:23:21,306 - INFO - Moved: CapCut_7591527187342229505_installer.exe -> Others/CapCut_7591527187342229505_installer.exe
+2026-02-14 14:23:21,309 - INFO - Moved: Capstone structure analysis.pdf -> Documents/Capstone structure analysis.pdf
+2026-02-14 14:23:21,311 - INFO - Moved: Capstone-Final-Defense.pptx -> Documents/Capstone-Final-Defense.pptx
+2026-02-14 14:23:21,312 - INFO - Moved: Capstone.docx-3.pdf -> Documents/Capstone.docx-3.pdf
+2026-02-14 14:23:21,315 - INFO - Moved: CAPSTONERUBRICS-LIPA_BSIT.docx -> Documents/CAPSTONERUBRICS-LIPA_BSIT.docx
+2026-02-14 14:23:21,316 - INFO - Moved: CAPSTONE_BIMS (1).docx -> Documents/CAPSTONE_BIMS (1).docx
+2026-02-14 14:23:21,318 - INFO - Moved: CAPSTONE_BIMS (2).pdf -> Documents/CAPSTONE_BIMS (2).pdf
+2026-02-14 14:23:21,319 - INFO - Moved: CAPSTONE_BIMS.docx -> Documents/CAPSTONE_BIMS.docx
+2026-02-14 14:23:21,322 - INFO - Moved: Card.pdf -> Documents/Card.pdf
+2026-02-14 14:23:21,325 - INFO - Moved: Case Analysis.pdf -> Documents/Case Analysis.pdf
+2026-02-14 14:23:21,325 - INFO - Moved: Case-Analysis-Group-2A (1).pdf -> Documents/Case-Analysis-Group-2A (1).pdf
+2026-02-14 14:23:21,328 - INFO - Moved: Case-Analysis-Group-2A.pdf -> Documents/Case-Analysis-Group-2A.pdf
+2026-02-14 14:23:21,331 - INFO - Moved: Case-Analysis.pdf -> Documents/Case-Analysis.pdf
+2026-02-14 14:23:21,333 - INFO - Moved: ccnav7.pdf -> Documents/ccnav7.pdf
+2026-02-14 14:23:21,336 - INFO - Moved: Cert1704351640.pdf -> Documents/Cert1704351640.pdf
+2026-02-14 14:23:21,338 - INFO - Moved: Certificate-of-Stock-Reported-CSR.pdf -> Documents/Certificate-of-Stock-Reported-CSR.pdf
+2026-02-14 14:23:21,341 - INFO - Moved: Certificates ni Cutie Nina.zip -> Archives/Certificates ni Cutie Nina.zip
+2026-02-14 14:23:21,343 - INFO - Moved: Certificates of Participation DEVCON_Kim Andrei M. Besmar.jpg -> Pictures/Certificates of Participation DEVCON_Kim Andrei M. Besmar.jpg
+2026-02-14 14:23:21,346 - INFO - Moved: Certificate_of_Completion_Module1-combined.pdf -> Documents/Certificate_of_Completion_Module1-combined.pdf
+2026-02-14 14:23:21,346 - INFO - Moved: chap3.txt -> Documents/chap3.txt
+2026-02-14 14:23:21,349 - INFO - Moved: chat-app-v2-8ea07-default-rtdb-export.json -> Others/chat-app-v2-8ea07-default-rtdb-export.json
+2026-02-14 14:23:21,351 - INFO - Moved: ChatGPT Image Feb 10, 2026, 07_24_19 PM.png -> Pictures/ChatGPT Image Feb 10, 2026, 07_24_19 PM.png
+2026-02-14 14:23:21,351 - INFO - Moved: chill.jpg -> Pictures/chill.jpg
+2026-02-14 14:23:21,351 - INFO - Moved: Christmas Tree.jpg -> Pictures/Christmas Tree.jpg
+2026-02-14 14:23:21,358 - INFO - Moved: ChromeSetup.exe -> Others/ChromeSetup.exe
+2026-02-14 14:23:21,360 - INFO - Moved: CITEC-BAGUIO-TOUR-WAIVER.pdf -> Documents/CITEC-BAGUIO-TOUR-WAIVER.pdf
+2026-02-14 14:23:21,360 - INFO - Moved: city.jpg -> Pictures/city.jpg
+2026-02-14 14:23:21,364 - INFO - Moved: client_secret_2_130764120347-4tfh2ql6vhva9ec06bajdur2rikrfv3v.apps.googleusercontent.com (1).json -> Others/client_secret_2_130764120347-4tfh2ql6vhva9ec06bajdur2rikrfv3v.apps.googleusercontent.com (1).json
+2026-02-14 14:23:21,366 - INFO - Moved: client_secret_2_130764120347-4tfh2ql6vhva9ec06bajdur2rikrfv3v.apps.googleusercontent.com.json -> Others/client_secret_2_130764120347-4tfh2ql6vhva9ec06bajdur2rikrfv3v.apps.googleusercontent.com.json
+2026-02-14 14:23:21,366 - INFO - Moved: client_secret_57584307080-ktnjq0j5c4k13i19pk1dr1n58segdn08.apps.googleusercontent.com.json -> Others/client_secret_57584307080-ktnjq0j5c4k13i19pk1dr1n58segdn08.apps.googleusercontent.com.json
+2026-02-14 14:23:21,369 - INFO - Moved: client_secret_912131714064-elrg46l30uh2u2378kc5mm3fc15o8tkr.apps.googleusercontent.com.json -> Others/client_secret_912131714064-elrg46l30uh2u2378kc5mm3fc15o8tkr.apps.googleusercontent.com.json
+2026-02-14 14:23:21,372 - INFO - Moved: Codex.dmg -> Others/Codex.dmg
+2026-02-14 14:23:21,374 - INFO - Moved: coffee-shop-firebase-96578-firebase-adminsdk-fbsvc-82fbc2aa52.json -> Others/coffee-shop-firebase-96578-firebase-adminsdk-fbsvc-82fbc2aa52.json
+2026-02-14 14:23:21,374 - INFO - Moved: COMPANIES W_ MOA.pdf -> Documents/COMPANIES W_ MOA.pdf
+2026-02-14 14:23:21,379 - INFO - Moved: complete.sql -> Others/complete.sql
+2026-02-14 14:23:21,380 - INFO - Moved: cool boy.d31d4227.piv -> Others/cool boy.d31d4227.piv
+2026-02-14 14:23:21,383 - INFO - Moved: Copy-of-Interview-Letter (1).pdf -> Documents/Copy-of-Interview-Letter (1).pdf
+2026-02-14 14:23:21,384 - INFO - Moved: Copy-of-Interview-Letter.pdf -> Documents/Copy-of-Interview-Letter.pdf
+2026-02-14 14:23:21,387 - INFO - Moved: CrossfirePH_v1607-1.bin -> Others/CrossfirePH_v1607-1.bin
+2026-02-14 14:23:21,387 - INFO - Moved: CrossfirePH_v1607-2.bin -> Others/CrossfirePH_v1607-2.bin
+2026-02-14 14:23:21,390 - INFO - Moved: CrossfirePH_v1607-3.bin -> Others/CrossfirePH_v1607-3.bin
+2026-02-14 14:23:21,392 - INFO - Moved: CrossfirePH_v1607-4.bin -> Others/CrossfirePH_v1607-4.bin
+2026-02-14 14:23:21,392 - INFO - Moved: CrossfirePH_v1607-5.bin -> Others/CrossfirePH_v1607-5.bin
+2026-02-14 14:23:21,395 - INFO - Moved: CrossfirePH_v1607-6.bin -> Others/CrossfirePH_v1607-6.bin
+2026-02-14 14:23:21,396 - INFO - Moved: CrossfirePH_v1607-7.bin -> Others/CrossfirePH_v1607-7.bin
+2026-02-14 14:23:21,396 - INFO - Moved: CrossfirePH_v1607.exe -> Others/CrossfirePH_v1607.exe
+2026-02-14 14:23:21,399 - INFO - Moved: CrossfirePH_v1607.rar -> Archives/CrossfirePH_v1607.rar
+2026-02-14 14:23:21,400 - INFO - Moved: CRUNCHY PANCAKES.mp4 -> Video/CRUNCHY PANCAKES.mp4
+2026-02-14 14:23:21,400 - INFO - Moved: CSR_CSR-2026-29JESK.pdf -> Documents/CSR_CSR-2026-29JESK.pdf
+2026-02-14 14:23:21,400 - INFO - Moved: CSR_CSR-2026-3HPL3J.pdf -> Documents/CSR_CSR-2026-3HPL3J.pdf
+2026-02-14 14:23:21,407 - INFO - Moved: CSR_CSR-2026-7UW51N.pdf -> Documents/CSR_CSR-2026-7UW51N.pdf
+2026-02-14 14:23:21,407 - INFO - Moved: CSR_CSR-2026-JB7CIN.pdf -> Documents/CSR_CSR-2026-JB7CIN.pdf
+2026-02-14 14:23:21,409 - INFO - Moved: CSR_CSR-2026-O8ZNAA.pdf -> Documents/CSR_CSR-2026-O8ZNAA.pdf
+2026-02-14 14:23:21,411 - INFO - Moved: CSR_CSR-2026-P09WCP.pdf -> Documents/CSR_CSR-2026-P09WCP.pdf
+2026-02-14 14:23:21,413 - INFO - Moved: CSR_CSR-2026-TFREZU.pdf -> Documents/CSR_CSR-2026-TFREZU.pdf
+2026-02-14 14:23:21,415 - INFO - Moved: CSR_CSR-2026-TJQ2MS.pdf -> Documents/CSR_CSR-2026-TJQ2MS.pdf
+2026-02-14 14:23:21,416 - INFO - Moved: CSR_CSR-2026-UXYE84.pdf -> Documents/CSR_CSR-2026-UXYE84.pdf
+2026-02-14 14:23:21,419 - INFO - Moved: CSR_CSR-2026-WDXM40.pdf -> Documents/CSR_CSR-2026-WDXM40.pdf
+2026-02-14 14:23:21,419 - INFO - Moved: CTPL-Insurance-Certificate.pdf -> Documents/CTPL-Insurance-Certificate.pdf
+2026-02-14 14:23:21,423 - INFO - Moved: CTPL_Insurance_444bb6bd-68ea-4d68-b077-7f274bdd1b12.pdf -> Documents/CTPL_Insurance_444bb6bd-68ea-4d68-b077-7f274bdd1b12.pdf
+2026-02-14 14:23:21,424 - INFO - Moved: CTPL_Insurance_4651a545-fdfc-4506-8a8f-1cc3ce7b20f3.pdf -> Documents/CTPL_Insurance_4651a545-fdfc-4506-8a8f-1cc3ce7b20f3.pdf
+2026-02-14 14:23:21,424 - INFO - Moved: CTPL_Insurance_8d2efb80-7237-406c-b38e-d98d12a84153 (1).pdf -> Documents/CTPL_Insurance_8d2efb80-7237-406c-b38e-d98d12a84153 (1).pdf
+2026-02-14 14:23:21,430 - INFO - Moved: CTPL_Insurance_8d2efb80-7237-406c-b38e-d98d12a84153.pdf -> Documents/CTPL_Insurance_8d2efb80-7237-406c-b38e-d98d12a84153.pdf
+2026-02-14 14:23:21,430 - INFO - Moved: CTPL_Insurance_8f16185b-84a1-4e4f-b3d0-b267326e02d4.pdf -> Documents/CTPL_Insurance_8f16185b-84a1-4e4f-b3d0-b267326e02d4.pdf
+2026-02-14 14:23:21,433 - INFO - Moved: CTPL_Insurance_94eaa667-5034-4766-8195-764d688c5740.pdf -> Documents/CTPL_Insurance_94eaa667-5034-4766-8195-764d688c5740.pdf
+2026-02-14 14:23:21,434 - INFO - Moved: CTPL_Insurance_c23351bd-e788-4dad-9fff-d7afb25adee9.pdf -> Documents/CTPL_Insurance_c23351bd-e788-4dad-9fff-d7afb25adee9.pdf
+2026-02-14 14:23:21,436 - INFO - Moved: CTPL_Insurance_c73a921b-9476-4135-8b78-942bebb294e7 (1).pdf -> Documents/CTPL_Insurance_c73a921b-9476-4135-8b78-942bebb294e7 (1).pdf
+2026-02-14 14:23:21,436 - INFO - Moved: CTPL_Insurance_c73a921b-9476-4135-8b78-942bebb294e7.pdf -> Documents/CTPL_Insurance_c73a921b-9476-4135-8b78-942bebb294e7.pdf
+2026-02-14 14:23:21,440 - INFO - Moved: CTPL_Insurance_d50832ba-fd65-497c-8e23-cfef1850df37.pdf -> Documents/CTPL_Insurance_d50832ba-fd65-497c-8e23-cfef1850df37.pdf
+2026-02-14 14:23:21,442 - INFO - Moved: Curriculum Vitae.docx -> Documents/Curriculum Vitae.docx
+2026-02-14 14:23:21,442 - INFO - Moved: Curriculum Vitae.pdf -> Documents/Curriculum Vitae.pdf
+2026-02-14 14:23:21,446 - INFO - Moved: Curriculum Vitae_BESMAR.pdf -> Documents/Curriculum Vitae_BESMAR.pdf
+2026-02-14 14:23:21,446 - INFO - Moved: CursorUserSetup-x64-1.2.2.exe -> Others/CursorUserSetup-x64-1.2.2.exe
+2026-02-14 14:23:21,449 - INFO - Moved: cursor_finding_our_earlier_chat.md -> Documents/cursor_finding_our_earlier_chat.md
+2026-02-14 14:23:21,451 - INFO - Moved: CV_Besmar-1.pdf -> Documents/CV_Besmar-1.pdf
+2026-02-14 14:23:21,451 - INFO - Moved: CV_Besmar-1.pdf.png -> Pictures/CV_Besmar-1.pdf.png
+2026-02-14 14:23:21,451 - INFO - Moved: CV_Besmar.pdf -> Documents/CV_Besmar.pdf
+2026-02-14 14:23:21,456 - INFO - Moved: d.jpg -> Pictures/d.jpg
+2026-02-14 14:23:21,459 - INFO - Moved: d12e1f84-191c-4428-ab4e-acdc53192ddb.jfif -> Others/d12e1f84-191c-4428-ab4e-acdc53192ddb.jfif
+2026-02-14 14:23:21,461 - INFO - Moved: dbeaver-ce-25.3.0-x86_64-setup.exe -> Others/dbeaver-ce-25.3.0-x86_64-setup.exe
+2026-02-14 14:23:21,463 - INFO - Moved: Deed_of_Sale_4651a545-fdfc-4506-8a8f-1cc3ce7b20f3 (1).pdf -> Documents/Deed_of_Sale_4651a545-fdfc-4506-8a8f-1cc3ce7b20f3 (1).pdf
+2026-02-14 14:23:21,465 - INFO - Moved: Deed_of_Sale_4651a545-fdfc-4506-8a8f-1cc3ce7b20f3.pdf -> Documents/Deed_of_Sale_4651a545-fdfc-4506-8a8f-1cc3ce7b20f3.pdf
+2026-02-14 14:23:21,466 - INFO - Moved: Deed_of_Sale_94eaa667-5034-4766-8195-764d688c5740.pdf -> Documents/Deed_of_Sale_94eaa667-5034-4766-8195-764d688c5740.pdf
+2026-02-14 14:23:21,468 - INFO - Moved: Deed_of_Sale_98306c80-511b-4126-a27f-85cad274594a.pdf -> Documents/Deed_of_Sale_98306c80-511b-4126-a27f-85cad274594a.pdf
+2026-02-14 14:23:21,469 - INFO - Moved: Deed_of_Sale_c73a921b-9476-4135-8b78-942bebb294e7 (1).pdf -> Documents/Deed_of_Sale_c73a921b-9476-4135-8b78-942bebb294e7 (1).pdf
+2026-02-14 14:23:21,472 - INFO - Moved: Deed_of_Sale_c73a921b-9476-4135-8b78-942bebb294e7.pdf -> Documents/Deed_of_Sale_c73a921b-9476-4135-8b78-942bebb294e7.pdf
+2026-02-14 14:23:21,475 - INFO - Moved: Deed_of_Sale_d50832ba-fd65-497c-8e23-cfef1850df37.pdf -> Documents/Deed_of_Sale_d50832ba-fd65-497c-8e23-cfef1850df37.pdf
+2026-02-14 14:23:21,475 - INFO - Moved: desktop.ini -> Others/desktop.ini
+2026-02-14 14:23:21,480 - INFO - Moved: DiscordSetup.exe -> Others/DiscordSetup.exe
+2026-02-14 14:23:21,480 - INFO - Moved: Docker Desktop Installer.exe -> Others/Docker Desktop Installer.exe
+2026-02-14 14:23:21,483 - INFO - Moved: document-b285befb-1552-4f11-b9e3-934dd4ab4978.md -> Documents/document-b285befb-1552-4f11-b9e3-934dd4ab4978.md
+2026-02-14 14:23:21,484 - INFO - Moved: document-b285befb-1552-4f11-b9e3-934dd4ab4978.txt -> Documents/document-b285befb-1552-4f11-b9e3-934dd4ab4978.txt
+2026-02-14 14:23:21,486 - INFO - Moved: DOCUMENTATION_and_REPORT.pdf -> Documents/DOCUMENTATION_and_REPORT.pdf
+2026-02-14 14:23:21,487 - INFO - Moved: Documents - Shortcut.lnk -> Others/Documents - Shortcut.lnk
+2026-02-14 14:23:21,490 - INFO - Moved: Dollhouse 2025.srt -> Others/Dollhouse 2025.srt
+2026-02-14 14:23:21,492 - INFO - Moved: dollhouse.(2025).eng.1cd.(13459034).zip -> Archives/dollhouse.(2025).eng.1cd.(13459034).zip
+2026-02-14 14:23:21,492 - INFO - Moved: Dollhouse.2025.1080p.U-NEXT.WEB-DL.AAC2.0.x264-en.srt -> Others/Dollhouse.2025.1080p.U-NEXT.WEB-DL.AAC2.0.x264-en.srt
+2026-02-14 14:23:21,495 - INFO - Moved: download (1).htm -> Others/download (1).htm
+2026-02-14 14:23:21,496 - INFO - Moved: download (2).htm -> Others/download (2).htm
+2026-02-14 14:23:21,499 - INFO - Moved: download (3).htm -> Others/download (3).htm
+2026-02-14 14:23:21,499 - INFO - Moved: download (4).htm -> Others/download (4).htm
+2026-02-14 14:23:21,501 - INFO - Moved: Download(1).mp4 -> Video/Download(1).mp4
+2026-02-14 14:23:21,501 - INFO - Moved: Download(2).mp4 -> Video/Download(2).mp4
+2026-02-14 14:23:21,506 - INFO - Moved: Download(3).mp4 -> Video/Download(3).mp4
+2026-02-14 14:23:21,508 - INFO - Moved: download.htm -> Others/download.htm
+2026-02-14 14:23:21,509 - INFO - Moved: Download.mp4 -> Video/Download.mp4
+2026-02-14 14:23:21,511 - INFO - Moved: Driver Epson L3110.zip -> Archives/Driver Epson L3110.zip
+2026-02-14 14:23:21,514 - INFO - Moved: driver.jpg -> Pictures/driver.jpg
+2026-02-14 14:23:21,516 - INFO - Moved: Drivers_License.pdf -> Documents/Drivers_License.pdf
+2026-02-14 14:23:21,518 - INFO - Moved: Drug Study.pdf -> Documents/Drug Study.pdf
+2026-02-14 14:23:21,519 - INFO - Moved: e6aa7187-dc0d-4cc4-8182-4682ebc8b3f7.jpg -> Pictures/e6aa7187-dc0d-4cc4-8182-4682ebc8b3f7.jpg
+2026-02-14 14:23:21,522 - INFO - Moved: e8104c15-5243-4394-8bcf-b278405bb8ac.jpg -> Pictures/e8104c15-5243-4394-8bcf-b278405bb8ac.jpg
+2026-02-14 14:23:21,525 - INFO - Moved: e8428f54-fdca-472d-815d-e986e7bb8135.jfif -> Others/e8428f54-fdca-472d-815d-e986e7bb8135.jfif
+2026-02-14 14:23:21,525 - INFO - Moved: e8e6e202-c147-4d3d-a826-447a602e520d.jfif -> Others/e8e6e202-c147-4d3d-a826-447a602e520d.jfif
+2026-02-14 14:23:21,528 - INFO - Moved: e8ea7be4-b799-40f1-a05a-bce39bd95f22.jfif -> Others/e8ea7be4-b799-40f1-a05a-bce39bd95f22.jfif
+2026-02-14 14:23:21,530 - INFO - Moved: ec8d5be4-a07d-4a4e-978f-121712d9a854.jfif -> Others/ec8d5be4-a07d-4a4e-978f-121712d9a854.jfif
+2026-02-14 14:23:21,533 - INFO - Moved: eeee.png -> Pictures/eeee.png
+2026-02-14 14:23:21,534 - INFO - Moved: Emission_Certificate_ETC-20260118-51754.pdf -> Documents/Emission_Certificate_ETC-20260118-51754.pdf
+2026-02-14 14:23:21,537 - INFO - Moved: Emission_Certificate_ETC-20260118-JVU7CV.pdf -> Documents/Emission_Certificate_ETC-20260118-JVU7CV.pdf
+2026-02-14 14:23:21,537 - INFO - Moved: Emission_Certificate_ETC-20260119-PF2HP8.pdf -> Documents/Emission_Certificate_ETC-20260119-PF2HP8.pdf
+2026-02-14 14:23:21,540 - INFO - Moved: Endorsement-Letter-Papertech.docx -> Documents/Endorsement-Letter-Papertech.docx
+2026-02-14 14:23:21,542 - INFO - Moved: exness5setup.exe -> Others/exness5setup.exe
+2026-02-14 14:23:21,542 - INFO - Moved: Explanation Letter.pdf -> Documents/Explanation Letter.pdf
+2026-02-14 14:23:21,545 - INFO - Moved: Facebook Installer.exe -> Others/Facebook Installer.exe
+2026-02-14 14:23:21,546 - INFO - Moved: fate girls 3.99d4e0b9.piv -> Others/fate girls 3.99d4e0b9.piv
+2026-02-14 14:23:21,549 - INFO - Moved: fbs5setup.exe -> Others/fbs5setup.exe
+2026-02-14 14:23:21,551 - INFO - Moved: feea3c28-d20c-43ee-9504-329e72a3ea82.jfif -> Others/feea3c28-d20c-43ee-9504-329e72a3ea82.jfif
+2026-02-14 14:23:21,551 - INFO - Moved: female character.jfif -> Others/female character.jfif
+2026-02-14 14:23:21,551 - INFO - Moved: FINAL-PAPER-BARAKOSPEAK-WITHCODE (1).pdf -> Documents/FINAL-PAPER-BARAKOSPEAK-WITHCODE (1).pdf
+2026-02-14 14:23:21,556 - INFO - Moved: FINAL-PAPER-BARAKOSPEAK-WITHCODE-2.pdf -> Documents/FINAL-PAPER-BARAKOSPEAK-WITHCODE-2.pdf
+2026-02-14 14:23:21,559 - INFO - Moved: FINAL-PAPER-BARAKOSPEAK-WITHCODE.pdf -> Documents/FINAL-PAPER-BARAKOSPEAK-WITHCODE.pdf
+2026-02-14 14:23:21,561 - INFO - Moved: firebase-form-builder.html -> Others/firebase-form-builder.html
+2026-02-14 14:23:21,562 - INFO - Moved: FIREBASE_DEPLOYMENT_GUIDE.md -> Documents/FIREBASE_DEPLOYMENT_GUIDE.md
+2026-02-14 14:23:21,565 - INFO - Moved: First try.piv -> Others/First try.piv
+2026-02-14 14:23:21,566 - INFO - Moved: First try.piv.bak -> Others/First try.piv.bak
+2026-02-14 14:23:21,568 - INFO - Moved: FIrst video.mp4 -> Video/FIrst video.mp4
+2026-02-14 14:23:21,569 - INFO - Moved: Flyer.jpg -> Pictures/Flyer.jpg
+2026-02-14 14:23:21,572 - INFO - Moved: Flyers.png -> Pictures/Flyers.png
+2026-02-14 14:23:21,574 - INFO - Moved: GDRIVE LINK.pdf -> Documents/GDRIVE LINK.pdf
+2026-02-14 14:23:21,575 - INFO - Moved: GDRIVE_LINK.pdf -> Documents/GDRIVE_LINK.pdf
+2026-02-14 14:23:21,578 - INFO - Moved: GeForceNOW-release.exe -> Others/GeForceNOW-release.exe
+2026-02-14 14:23:21,579 - INFO - Moved: Gemini_Generated_Image_4jqygs4jqygs4jqy.png -> Pictures/Gemini_Generated_Image_4jqygs4jqygs4jqy.png
+2026-02-14 14:23:21,580 - INFO - Moved: Gemini_Generated_Image_bieyphbieyphbiey.png -> Pictures/Gemini_Generated_Image_bieyphbieyphbiey.png
+2026-02-14 14:23:21,583 - INFO - Moved: Gemini_Generated_Image_m85pfqm85pfqm85p.png -> Pictures/Gemini_Generated_Image_m85pfqm85pfqm85p.png
+2026-02-14 14:23:21,584 - INFO - Moved: Gemini_Generated_Image_sm77wrsm77wrsm77.png -> Pictures/Gemini_Generated_Image_sm77wrsm77wrsm77.png
+2026-02-14 14:23:21,587 - INFO - Moved: Gemini_Generated_Image_y8a416y8a416y8a4.png -> Pictures/Gemini_Generated_Image_y8a416y8a416y8a4.png
+2026-02-14 14:23:21,587 - INFO - Moved: Gemini_Generated_Image_z1gk2rz1gk2rz1gk.png -> Pictures/Gemini_Generated_Image_z1gk2rz1gk2rz1gk.png
+2026-02-14 14:23:21,590 - INFO - Moved: GForms Assessment.PNG -> Pictures/GForms Assessment.PNG
+2026-02-14 14:23:21,592 - INFO - Moved: Gift Collections - Google Play package.zip -> Archives/Gift Collections - Google Play package.zip
+2026-02-14 14:23:21,592 - INFO - Moved: Gift Collections for my love.aab -> Others/Gift Collections for my love.aab
+2026-02-14 14:23:21,595 - INFO - Moved: Gift Collections for my love.apk -> Others/Gift Collections for my love.apk
+2026-02-14 14:23:21,596 - INFO - Moved: Gift Collections.zip -> Archives/Gift Collections.zip
+2026-02-14 14:23:21,599 - INFO - Moved: Git-2.50.1-64-bit.exe -> Others/Git-2.50.1-64-bit.exe
+2026-02-14 14:23:21,601 - INFO - Moved: github-recovery-codes.txt -> Documents/github-recovery-codes.txt
+2026-02-14 14:23:21,601 - INFO - Moved: GitHubDesktopSetup-x64.exe -> Others/GitHubDesktopSetup-x64.exe
+2026-02-14 14:23:21,601 - INFO - Moved: Glesseth.txt -> Documents/Glesseth.txt
+2026-02-14 14:23:21,607 - INFO - Moved: Gold_Stocks.xls -> Others/Gold_Stocks.xls
+2026-02-14 14:23:21,609 - INFO - Moved: Grit Test.PNG -> Pictures/Grit Test.PNG
+2026-02-14 14:23:21,611 - INFO - Moved: GROUP_4-FinalReseachPaper-3-1 (1).pdf -> Documents/GROUP_4-FinalReseachPaper-3-1 (1).pdf
+2026-02-14 14:23:21,613 - INFO - Moved: GROUP_4-FinalReseachPaper-3-1.pdf -> Documents/GROUP_4-FinalReseachPaper-3-1.pdf
+2026-02-14 14:23:21,614 - INFO - Moved: Hopeless.2023-en.srt -> Others/Hopeless.2023-en.srt
+2026-02-14 14:23:21,618 - INFO - Moved: HPG_Clearance_4651a545-fdfc-4506-8a8f-1cc3ce7b20f3.pdf -> Documents/HPG_Clearance_4651a545-fdfc-4506-8a8f-1cc3ce7b20f3.pdf
+2026-02-14 14:23:21,619 - INFO - Moved: HPG_Clearance_8d2efb80-7237-406c-b38e-d98d12a84153 (1).pdf -> Documents/HPG_Clearance_8d2efb80-7237-406c-b38e-d98d12a84153 (1).pdf
+2026-02-14 14:23:21,621 - INFO - Moved: HPG_Clearance_8d2efb80-7237-406c-b38e-d98d12a84153.pdf -> Documents/HPG_Clearance_8d2efb80-7237-406c-b38e-d98d12a84153.pdf
+2026-02-14 14:23:21,624 - INFO - Moved: HPG_Clearance_8f16185b-84a1-4e4f-b3d0-b267326e02d4.pdf -> Documents/HPG_Clearance_8f16185b-84a1-4e4f-b3d0-b267326e02d4.pdf
+2026-02-14 14:23:21,624 - INFO - Moved: HPG_Clearance_c23351bd-e788-4dad-9fff-d7afb25adee9.pdf -> Documents/HPG_Clearance_c23351bd-e788-4dad-9fff-d7afb25adee9.pdf
+2026-02-14 14:23:21,624 - INFO - Moved: HPG_Clearance_c73a921b-9476-4135-8b78-942bebb294e7 (1).pdf -> Documents/HPG_Clearance_c73a921b-9476-4135-8b78-942bebb294e7 (1).pdf
+2026-02-14 14:23:21,629 - INFO - Moved: HPG_Clearance_c73a921b-9476-4135-8b78-942bebb294e7.pdf -> Documents/HPG_Clearance_c73a921b-9476-4135-8b78-942bebb294e7.pdf
+2026-02-14 14:23:21,630 - INFO - Moved: HPG_Clearance_d50832ba-fd65-497c-8e23-cfef1850df37.pdf -> Documents/HPG_Clearance_d50832ba-fd65-497c-8e23-cfef1850df37.pdf
+2026-02-14 14:23:21,633 - INFO - Moved: HPG_Clearance_HPG-2026-38BLH4.pdf -> Documents/HPG_Clearance_HPG-2026-38BLH4.pdf
+2026-02-14 14:23:21,634 - INFO - Moved: HPG_Clearance_HPG-2026-4WRSAB.pdf -> Documents/HPG_Clearance_HPG-2026-4WRSAB.pdf
+2026-02-14 14:23:21,636 - INFO - Moved: HPG_Clearance_HPG-2026-94MD9A.pdf -> Documents/HPG_Clearance_HPG-2026-94MD9A.pdf
+2026-02-14 14:23:21,636 - INFO - Moved: HPG_Clearance_HPG-2026-B0JNUN.pdf -> Documents/HPG_Clearance_HPG-2026-B0JNUN.pdf
+2026-02-14 14:23:21,640 - INFO - Moved: HPG_Clearance_HPG-2026-DO0TBS.pdf -> Documents/HPG_Clearance_HPG-2026-DO0TBS.pdf
+2026-02-14 14:23:21,642 - INFO - Moved: HPG_Clearance_HPG-2026-GZENNQ.pdf -> Documents/HPG_Clearance_HPG-2026-GZENNQ.pdf
+2026-02-14 14:23:21,642 - INFO - Moved: HPG_Clearance_HPG-2026-LYDN8Q.pdf -> Documents/HPG_Clearance_HPG-2026-LYDN8Q.pdf
+2026-02-14 14:23:21,645 - INFO - Moved: HPG_Clearance_HPG-2026-O7AAXQ.pdf -> Documents/HPG_Clearance_HPG-2026-O7AAXQ.pdf
+2026-02-14 14:23:21,646 - INFO - Moved: HPG_Clearance_HPG-2026-TOZS9J.pdf -> Documents/HPG_Clearance_HPG-2026-TOZS9J.pdf
+2026-02-14 14:23:21,649 - INFO - Moved: HPG_Clearance_HPG-2026-YW6JP4.pdf -> Documents/HPG_Clearance_HPG-2026-YW6JP4.pdf
+2026-02-14 14:23:21,651 - INFO - Moved: HTML_CSS_Cert.png -> Pictures/HTML_CSS_Cert.png
+2026-02-14 14:23:21,651 - INFO - Moved: icons.json -> Others/icons.json
+2026-02-14 14:23:21,651 - INFO - Moved: if0_38739524_glessethy.sql -> Others/if0_38739524_glessethy.sql
+2026-02-14 14:23:21,658 - INFO - Moved: if0_38985245_ublfdb (1).sql -> Others/if0_38985245_ublfdb (1).sql
+2026-02-14 14:23:21,659 - INFO - Moved: if0_38985245_ublfdb.sql -> Others/if0_38985245_ublfdb.sql
+2026-02-14 14:23:21,660 - INFO - Moved: if0_40119819_awros.sql -> Others/if0_40119819_awros.sql
+2026-02-14 14:23:21,662 - INFO - Moved: images.jfif -> Others/images.jfif
+2026-02-14 14:23:21,664 - INFO - Moved: index (1).html -> Others/index (1).html
+2026-02-14 14:23:21,666 - INFO - Moved: index (2).html -> Others/index (2).html
+2026-02-14 14:23:21,666 - INFO - Moved: index.html -> Others/index.html
+2026-02-14 14:23:21,669 - INFO - Moved: index.php -> Others/index.php
+2026-02-14 14:23:21,671 - INFO - Moved: information-14-00117.pdf -> Documents/information-14-00117.pdf
+2026-02-14 14:23:21,672 - INFO - Moved: Install League of Legends na.exe -> Others/Install League of Legends na.exe
+2026-02-14 14:23:21,674 - INFO - Moved: Install League of Legends ph2.exe -> Others/Install League of Legends ph2.exe
+2026-02-14 14:23:21,674 - INFO - Moved: Insurance Claim.pdf -> Documents/Insurance Claim.pdf
+2026-02-14 14:23:21,678 - INFO - Moved: Insurance_Certificate_CTPL-2026-78TBMZ.pdf -> Documents/Insurance_Certificate_CTPL-2026-78TBMZ.pdf
+2026-02-14 14:23:21,680 - INFO - Moved: Insurance_Certificate_CTPL-2026-9WS1T3.pdf -> Documents/Insurance_Certificate_CTPL-2026-9WS1T3.pdf
+2026-02-14 14:23:21,683 - INFO - Moved: Insurance_Certificate_CTPL-2026-C9EAZQ.pdf -> Documents/Insurance_Certificate_CTPL-2026-C9EAZQ.pdf
+2026-02-14 14:23:21,684 - INFO - Moved: Insurance_Certificate_CTPL-2026-JGC87A.pdf -> Documents/Insurance_Certificate_CTPL-2026-JGC87A.pdf
+2026-02-14 14:23:21,686 - INFO - Moved: Insurance_Certificate_CTPL-2026-LM45YA.pdf -> Documents/Insurance_Certificate_CTPL-2026-LM45YA.pdf
+2026-02-14 14:23:21,686 - INFO - Moved: Insurance_Certificate_CTPL-2026-LR9EY3.pdf -> Documents/Insurance_Certificate_CTPL-2026-LR9EY3.pdf
+2026-02-14 14:23:21,686 - INFO - Moved: Insurance_Certificate_CTPL-2026-MRMH2Q.pdf -> Documents/Insurance_Certificate_CTPL-2026-MRMH2Q.pdf
+2026-02-14 14:23:21,690 - INFO - Moved: Insurance_Certificate_CTPL-2026-VAI1IQ.pdf -> Documents/Insurance_Certificate_CTPL-2026-VAI1IQ.pdf
+2026-02-14 14:23:21,692 - INFO - Moved: Insurance_Certificate_CTPL-2026-Y8I9ZC.pdf -> Documents/Insurance_Certificate_CTPL-2026-Y8I9ZC.pdf
+2026-02-14 14:23:21,695 - INFO - Moved: Insurance_Certificate_CTPL-2026-YU8JBL.pdf -> Documents/Insurance_Certificate_CTPL-2026-YU8JBL.pdf
+2026-02-14 14:23:21,696 - INFO - Moved: Intel-Driver-and-Support-Assistant-Installer (1).exe -> Others/Intel-Driver-and-Support-Assistant-Installer (1).exe
+2026-02-14 14:23:21,696 - INFO - Moved: Intel-Driver-and-Support-Assistant-Installer.exe -> Others/Intel-Driver-and-Support-Assistant-Installer.exe
+2026-02-14 14:23:21,699 - INFO - Moved: Interpretation_Besmar.pdf -> Documents/Interpretation_Besmar.pdf
+2026-02-14 14:23:21,701 - INFO - Moved: Interview Letter (1).pdf -> Documents/Interview Letter (1).pdf
+2026-02-14 14:23:21,701 - INFO - Moved: Interview-Letter-1 (1).pdf -> Documents/Interview-Letter-1 (1).pdf
+2026-02-14 14:23:21,701 - INFO - Moved: Interview-Letter-1.pdf -> Documents/Interview-Letter-1.pdf
+2026-02-14 14:23:21,707 - INFO - Moved: IPT102 Assignment 1.mp4 -> Video/IPT102 Assignment 1.mp4
+2026-02-14 14:23:21,709 - INFO - Moved: IPT102_Finals.pdf -> Documents/IPT102_Finals.pdf
+2026-02-14 14:23:21,711 - INFO - Moved: istockphoto-2010055096-612x612.jpg -> Pictures/istockphoto-2010055096-612x612.jpg
+2026-02-14 14:23:21,714 - INFO - Moved: istockphoto-478822591-612x612.jpg -> Pictures/istockphoto-478822591-612x612.jpg
+2026-02-14 14:23:21,715 - INFO - Moved: IT-Capstone-Format (1).pdf -> Documents/IT-Capstone-Format (1).pdf
+2026-02-14 14:23:21,716 - INFO - Moved: IT-Capstone-Format (2).pdf -> Documents/IT-Capstone-Format (2).pdf
+2026-02-14 14:23:21,718 - INFO - Moved: IT-Capstone-Format.pdf -> Documents/IT-Capstone-Format.pdf
+2026-02-14 14:23:21,719 - INFO - Moved: Item.sql -> Others/Item.sql
+2026-02-14 14:23:21,722 - INFO - Moved: jmvreqjy_awros.sql -> Others/jmvreqjy_awros.sql
+2026-02-14 14:23:21,724 - INFO - Moved: KOOPNEKTADO EPISODE 1.pdf -> Documents/KOOPNEKTADO EPISODE 1.pdf
+2026-02-14 14:23:21,725 - INFO - Moved: LabTask_Besmar.pdf -> Documents/LabTask_Besmar.pdf
+2026-02-14 14:23:21,728 - INFO - Moved: Lec2a_DecisionManagement.pdf -> Documents/Lec2a_DecisionManagement.pdf
+2026-02-14 14:23:21,730 - INFO - Moved: Lec2b_SWOT.pdf -> Documents/Lec2b_SWOT.pdf
+2026-02-14 14:23:21,732 - INFO - Moved: Legal_Compliance_Protocols_for_Blockchain_Smart_Contracts__A_New_Era_of_Regulatory_Compliance___Av__Sercan_Koç.pdf -> Documents/Legal_Compliance_Protocols_for_Blockchain_Smart_Contracts__A_New_Era_of_Regulatory_Compliance___Av__Sercan_Koç.pdf
+2026-02-14 14:23:21,733 - INFO - Moved: letsview-setup.exe -> Others/letsview-setup.exe
+2026-02-14 14:23:21,734 - INFO - Moved: Look_at_my_1080p_202602101949.mp4 -> Video/Look_at_my_1080p_202602101949.mp4
+2026-02-14 14:23:21,738 - INFO - Moved: Lord of Mysteries S01E06 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).torrent -> Others/Lord of Mysteries S01E06 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR).torrent
+2026-02-14 14:23:21,740 - INFO - Moved: Lord.of.Mysteries.S01E01.The.Fool.1080p.AMZN.WEB-DL.MULTi.DDP2.0.H.264-VARYG.torrent -> Others/Lord.of.Mysteries.S01E01.The.Fool.1080p.AMZN.WEB-DL.MULTi.DDP2.0.H.264-VARYG.torrent
+2026-02-14 14:23:21,742 - INFO - Moved: Lord.of.Mysteries.S01E01.WeTV.en.SCARCITY.ass -> Others/Lord.of.Mysteries.S01E01.WeTV.en.SCARCITY.ass
+2026-02-14 14:23:21,742 - INFO - Moved: Lord.of.Mysteries.S01E02.Beyonder.1080p.AMZN.WEB-DL.MULTi.DDP2.0.H.264-VARYG.torrent -> Others/Lord.of.Mysteries.S01E02.Beyonder.1080p.AMZN.WEB-DL.MULTi.DDP2.0.H.264-VARYG.torrent
+2026-02-14 14:23:21,746 - INFO - Moved: Lord.of.Mysteries.S01E03.The.Notebook.1080p.AMZN.WEB-DL.MULTi.DDP2.0.H.264-VARYG.torrent -> Others/Lord.of.Mysteries.S01E03.The.Notebook.1080p.AMZN.WEB-DL.MULTi.DDP2.0.H.264-VARYG.torrent
+2026-02-14 14:23:21,746 - INFO - Moved: Lord.of.Mysteries.S01E04.Magic.Mirror.1440p.CR.WEB-DL.AAC2.0.H.264-VARYG.torrent -> Others/Lord.of.Mysteries.S01E04.Magic.Mirror.1440p.CR.WEB-DL.AAC2.0.H.264-VARYG.torrent
+2026-02-14 14:23:21,749 - INFO - Moved: Lord.of.Mysteries.S01E05.Hero.1080p.CR.WEB-DL.CMN.AAC2.0.H.264.MSubs-ToonsHub.torrent -> Others/Lord.of.Mysteries.S01E05.Hero.1080p.CR.WEB-DL.CMN.AAC2.0.H.264.MSubs-ToonsHub.torrent
+2026-02-14 14:23:21,751 - INFO - Moved: Lord.of.Mysteries.S01E07.Coincidence.1080p.CR.WEB-DL.AAC2.0.H.264-VARYG.torrent -> Others/Lord.of.Mysteries.S01E07.Coincidence.1080p.CR.WEB-DL.AAC2.0.H.264-VARYG.torrent
+2026-02-14 14:23:21,751 - INFO - Moved: Lotm Subtitles-20250808T170053Z-1-001.zip -> Archives/Lotm Subtitles-20250808T170053Z-1-001.zip
+2026-02-14 14:23:21,751 - INFO - Moved: LT3_SemFin_Besmar.xlsx -> Documents/LT3_SemFin_Besmar.xlsx
+2026-02-14 14:23:21,756 - INFO - Moved: LTO Official Receipt & Certificate of Registration.pdf -> Documents/LTO Official Receipt & Certificate of Registration.pdf
+2026-02-14 14:23:21,757 - INFO - Moved: LTO_Certificate_OR-2025-000004 (1).html -> Others/LTO_Certificate_OR-2025-000004 (1).html
+2026-02-14 14:23:21,759 - INFO - Moved: LTO_Certificate_OR-2025-000004 (2).html -> Others/LTO_Certificate_OR-2025-000004 (2).html
+2026-02-14 14:23:21,760 - INFO - Moved: LTO_Certificate_OR-2025-000004 (3).html -> Others/LTO_Certificate_OR-2025-000004 (3).html
+2026-02-14 14:23:21,762 - INFO - Moved: LTO_Certificate_OR-2025-000004 (4).html -> Others/LTO_Certificate_OR-2025-000004 (4).html
+2026-02-14 14:23:21,765 - INFO - Moved: LTO_Certificate_OR-2025-000004.html -> Others/LTO_Certificate_OR-2025-000004.html
+2026-02-14 14:23:21,766 - INFO - Moved: M.png -> Pictures/M.png
+2026-02-14 14:23:21,768 - INFO - Moved: M4-A.1 TAMANG SAGOT (TS)_circ2020-0021.pdf -> Documents/M4-A.1 TAMANG SAGOT (TS)_circ2020-0021.pdf
+2026-02-14 14:23:21,769 - INFO - Moved: male character.jfif -> Others/male character.jfif
+2026-02-14 14:23:21,772 - INFO - Moved: MASTER PROMPT TEMP.txt -> Documents/MASTER PROMPT TEMP.txt
+2026-02-14 14:23:21,775 - INFO - Moved: Members_2A.pdf -> Documents/Members_2A.pdf
+2026-02-14 14:23:21,775 - INFO - Moved: memory1.jpg -> Pictures/memory1.jpg
+2026-02-14 14:23:21,778 - INFO - Moved: memory2.jpg -> Pictures/memory2.jpg
+2026-02-14 14:23:21,780 - INFO - Moved: memory3.jpg -> Pictures/memory3.jpg
+2026-02-14 14:23:21,784 - INFO - Moved: memory4.jpg -> Pictures/memory4.jpg
+2026-02-14 14:23:21,784 - INFO - Moved: Mental_Health_Seminar_PSYCH.jpg -> Pictures/Mental_Health_Seminar_PSYCH.jpg
+2026-02-14 14:23:21,786 - INFO - Moved: Messenger Installer.exe -> Others/Messenger Installer.exe
+2026-02-14 14:23:21,786 - INFO - Moved: mftp_zip_2025_06_06_06_46_32.zip -> Archives/mftp_zip_2025_06_06_06_46_32.zip
+2026-02-14 14:23:21,790 - INFO - Moved: mftp_zip_2025_06_07_07_11_25.zip -> Archives/mftp_zip_2025_06_07_07_11_25.zip
+2026-02-14 14:23:21,792 - INFO - Moved: mftp_zip_2025_07_11_07_22_46.zip -> Archives/mftp_zip_2025_07_11_07_22_46.zip
+2026-02-14 14:23:21,795 - INFO - Moved: mftp_zip_2025_08_24_13_53_07.zip -> Archives/mftp_zip_2025_08_24_13_53_07.zip
+2026-02-14 14:23:21,796 - INFO - Moved: Microsoft.Management.Deployment.winmd -> Others/Microsoft.Management.Deployment.winmd
+2026-02-14 14:23:21,799 - INFO - Moved: Misleading Advertisement.pdf -> Documents/Misleading Advertisement.pdf
+2026-02-14 14:23:21,801 - INFO - Moved: mp68-win-mp280-1_04-ea24.exe -> Others/mp68-win-mp280-1_04-ea24.exe
+2026-02-14 14:23:21,801 - INFO - Moved: MSTeamsSetup.exe -> Others/MSTeamsSetup.exe
+2026-02-14 14:23:21,806 - INFO - Moved: MVIR-Form.pdf -> Documents/MVIR-Form.pdf
+2026-02-14 14:23:21,808 - INFO - Moved: My workflow (1).json -> Others/My workflow (1).json
+2026-02-14 14:23:21,810 - INFO - Moved: My workflow.json -> Others/My workflow.json
+2026-02-14 14:23:21,810 - INFO - Moved: mysql-installer-community-8.0.42.0.msi -> Others/mysql-installer-community-8.0.42.0.msi
+2026-02-14 14:23:21,814 - INFO - Moved: mysql-workbench-community-8.0.42-winx64.msi -> Others/mysql-workbench-community-8.0.42-winx64.msi
+2026-02-14 14:23:21,816 - INFO - Moved: Narrator_kim_andrei_1080p_202602102015.mp4 -> Video/Narrator_kim_andrei_1080p_202602102015.mp4
+2026-02-14 14:23:21,816 - INFO - Moved: nature.jpeg -> Pictures/nature.jpeg
+2026-02-14 14:23:21,822 - INFO - Moved: Networking Basics.pdf -> Documents/Networking Basics.pdf
+2026-02-14 14:23:21,826 - INFO - Moved: Networking_Basics_certificate_2220009-ub-edu-ph_26584ae7-5f1e-49ab-a672-54a082c5aea9.pdf -> Documents/Networking_Basics_certificate_2220009-ub-edu-ph_26584ae7-5f1e-49ab-a672-54a082c5aea9.pdf
+2026-02-14 14:23:21,829 - INFO - Moved: New Text Document.txt -> Documents/New Text Document.txt
+2026-02-14 14:23:21,829 - INFO - Moved: node-v20.19.3-x64.msi -> Others/node-v20.19.3-x64.msi
+2026-02-14 14:23:21,834 - INFO - Moved: node-v22.17.0-x64.msi -> Others/node-v22.17.0-x64.msi
+2026-02-14 14:23:21,834 - INFO - Moved: nose-smell-14048449.jpg -> Pictures/nose-smell-14048449.jpg
+2026-02-14 14:23:21,836 - INFO - Moved: OBS-Studio-31.0.4-Windows-Installer.exe -> Others/OBS-Studio-31.0.4-Windows-Installer.exe
+2026-02-14 14:23:21,839 - INFO - Moved: OKX_Setup_Win10.exe -> Others/OKX_Setup_Win10.exe
+2026-02-14 14:23:21,840 - INFO - Moved: OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.msi -> Others/OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.msi
+2026-02-14 14:23:21,843 - INFO - Moved: Owner ID -> Others/Owner ID
+2026-02-14 14:23:21,846 - INFO - Moved: Packet_Tracer822_64bit_setup_signed.exe -> Others/Packet_Tracer822_64bit_setup_signed.exe
+2026-02-14 14:23:21,846 - INFO - Moved: Personality Assessment.PNG -> Pictures/Personality Assessment.PNG
+2026-02-14 14:23:21,849 - INFO - Moved: peter.pdf -> Documents/peter.pdf
+2026-02-14 14:23:21,851 - INFO - Moved: PETER_BESMAR_RESUME (1).pdf -> Documents/PETER_BESMAR_RESUME (1).pdf
+2026-02-14 14:23:21,851 - INFO - Moved: PETER_BESMAR_RESUME (2).pdf -> Documents/PETER_BESMAR_RESUME (2).pdf
+2026-02-14 14:23:21,851 - INFO - Moved: PETER_BESMAR_RESUME (3).pdf -> Documents/PETER_BESMAR_RESUME (3).pdf
+2026-02-14 14:23:21,856 - INFO - Moved: PETER_BESMAR_RESUME.pdf -> Documents/PETER_BESMAR_RESUME.pdf
+2026-02-14 14:23:21,857 - INFO - Moved: Photos-20250921T044217Z-1-001.zip -> Archives/Photos-20250921T044217Z-1-001.zip
+2026-02-14 14:23:21,860 - INFO - Moved: photo_2025-07-21_19-33-36.jpg -> Pictures/photo_2025-07-21_19-33-36.jpg
+2026-02-14 14:23:21,863 - INFO - Moved: PHPMailer-FE_v4.11.zip -> Archives/PHPMailer-FE_v4.11.zip
+2026-02-14 14:23:21,864 - INFO - Moved: pivot_v5-2.exe -> Others/pivot_v5-2.exe
+2026-02-14 14:23:21,866 - INFO - Moved: PN (1).pdf -> Documents/PN (1).pdf
+2026-02-14 14:23:21,869 - INFO - Moved: PN.pdf -> Documents/PN.pdf
+2026-02-14 14:23:21,869 - INFO - Moved: pngwing.com (1).png -> Pictures/pngwing.com (1).png
+2026-02-14 14:23:21,872 - INFO - Moved: pngwing.com (2).png -> Pictures/pngwing.com (2).png
+2026-02-14 14:23:21,875 - INFO - Moved: pngwing.com.ico -> Others/pngwing.com.ico
+2026-02-14 14:23:21,875 - INFO - Moved: pngwing.com.png -> Pictures/pngwing.com.png
+2026-02-14 14:23:21,878 - INFO - Moved: PNP-HPG-Motor-Vehicle-Clearance-Certificate.pdf -> Documents/PNP-HPG-Motor-Vehicle-Clearance-Certificate.pdf
+2026-02-14 14:23:21,880 - INFO - Moved: Pocket Monsters - Black (Japan) (NDSi Enhanced).nds -> Others/Pocket Monsters - Black (Japan) (NDSi Enhanced).nds
+2026-02-14 14:23:21,883 - INFO - Moved: Pocket Monsters - Black (Japan) (NDSi Enhanced).zip -> Archives/Pocket Monsters - Black (Japan) (NDSi Enhanced).zip
+2026-02-14 14:23:21,884 - INFO - Moved: pokemmo-installer-windows.exe -> Others/pokemmo-installer-windows.exe
+2026-02-14 14:23:21,886 - INFO - Moved: Pokemon  Black White-20260112T120714Z-3-001.zip -> Archives/Pokemon  Black White-20260112T120714Z-3-001.zip
+2026-02-14 14:23:21,886 - INFO - Moved: Pokemon_ Black Version.zip -> Archives/Pokemon_ Black Version.zip
+2026-02-14 14:23:21,890 - INFO - Moved: Possible Questions to LTO and HPG_ (1).pdf -> Documents/Possible Questions to LTO and HPG_ (1).pdf
+2026-02-14 14:23:21,892 - INFO - Moved: Possible Questions to LTO and HPG_ (2).pdf -> Documents/Possible Questions to LTO and HPG_ (2).pdf
+2026-02-14 14:23:21,895 - INFO - Moved: Possible Questions to LTO and HPG_.pdf -> Documents/Possible Questions to LTO and HPG_.pdf
+2026-02-14 14:23:21,896 - INFO - Moved: Possible Questions to LTO_.pdf -> Documents/Possible Questions to LTO_.pdf
+2026-02-14 14:23:21,899 - INFO - Moved: postgresql-18.1-2-windows-x64.exe -> Others/postgresql-18.1-2-windows-x64.exe
+2026-02-14 14:23:21,901 - INFO - Moved: Powder_Sachet 24g_Back_1.avif -> Others/Powder_Sachet 24g_Back_1.avif
+2026-02-14 14:23:21,901 - INFO - Moved: Pre Oral.pdf -> Documents/Pre Oral.pdf
+2026-02-14 14:23:21,901 - INFO - Moved: print_1copy.pdf -> Documents/print_1copy.pdf
+2026-02-14 14:23:21,907 - INFO - Moved: prompt.txt -> Documents/prompt.txt
+2026-02-14 14:23:21,909 - INFO - Moved: Psych Seminar.png -> Pictures/Psych Seminar.png
+2026-02-14 14:23:21,913 - INFO - Moved: PT1_Midterms_Besmar.pdf -> Documents/PT1_Midterms_Besmar.pdf
+2026-02-14 14:23:21,915 - INFO - Moved: Python-3.11.14.tar.xz -> Others/Python-3.11.14.tar.xz
+2026-02-14 14:23:21,917 - INFO - Moved: python-3.11.9-amd64.exe -> Others/python-3.11.9-amd64.exe
+2026-02-14 14:23:21,919 - INFO - Moved: python-3.13.9-amd64.exe -> Others/python-3.13.9-amd64.exe
+2026-02-14 14:23:21,919 - INFO - Moved: Rave-x64-Setup-1.17.2.exe -> Others/Rave-x64-Setup-1.17.2.exe
+2026-02-14 14:23:21,923 - INFO - Moved: Readme.html -> Others/Readme.html
+2026-02-14 14:23:21,925 - INFO - Moved: received_1608392396676154-removebg-preview.png -> Pictures/received_1608392396676154-removebg-preview.png
+2026-02-14 14:23:21,925 - INFO - Moved: received_361954353533517-removebg-preview.png -> Pictures/received_361954353533517-removebg-preview.png
+2026-02-14 14:23:21,929 - INFO - Moved: received_409664868543041-removebg-preview.png -> Pictures/received_409664868543041-removebg-preview.png
+2026-02-14 14:23:21,930 - INFO - Moved: received_423986863666992-removebg-preview.png -> Pictures/received_423986863666992-removebg-preview.png
+2026-02-14 14:23:21,934 - INFO - Moved: received_7726272644120871-removebg-preview.png -> Pictures/received_7726272644120871-removebg-preview.png
+2026-02-14 14:23:21,937 - INFO - Moved: Redist.rar -> Archives/Redist.rar
+2026-02-14 14:23:21,940 - INFO - Moved: references.bib -> Others/references.bib
+2026-02-14 14:23:21,942 - INFO - Moved: REFLECTION_BESMAR.pdf -> Documents/REFLECTION_BESMAR.pdf
+2026-02-14 14:23:21,944 - INFO - Moved: RHEMY’S.jpg -> Pictures/RHEMY’S.jpg
+2026-02-14 14:23:21,946 - INFO - Moved: RHEM’S.png -> Pictures/RHEM’S.png
+2026-02-14 14:23:21,949 - INFO - Moved: Rick and Morty - 3x01 - The Rickshank Rickdemption.HDTV.W4F.en-en.txt -> Documents/Rick and Morty - 3x01 - The Rickshank Rickdemption.HDTV.W4F.en-en.txt
+2026-02-14 14:23:21,951 - INFO - Moved: Rick.and.Morty.S07E05.1080p.WEB.H264-NHTFS.txt -> Documents/Rick.and.Morty.S07E05.1080p.WEB.H264-NHTFS.txt
+2026-02-14 14:23:21,951 - INFO - Moved: RobloxPlayerInstaller-C4QBWXPWHQ.exe -> Others/RobloxPlayerInstaller-C4QBWXPWHQ.exe
+2026-02-14 14:23:21,951 - INFO - Moved: RobloxPlayerInstaller.exe -> Others/RobloxPlayerInstaller.exe
+2026-02-14 14:23:21,956 - INFO - Moved: round-container.jpg -> Pictures/round-container.jpg
+2026-02-14 14:23:21,956 - INFO - Moved: RRL (1).pdf -> Documents/RRL (1).pdf
+2026-02-14 14:23:21,961 - INFO - Moved: RRL (2).pdf -> Documents/RRL (2).pdf
+2026-02-14 14:23:21,962 - INFO - Moved: RRL matrix.xlsx - Technology.pdf -> Documents/RRL matrix.xlsx - Technology.pdf
+2026-02-14 14:23:21,965 - INFO - Moved: RRL-RS (1).pdf -> Documents/RRL-RS (1).pdf
+2026-02-14 14:23:21,968 - INFO - Moved: RRL-RS.pdf -> Documents/RRL-RS.pdf
+2026-02-14 14:23:21,970 - INFO - Moved: RRL.pdf -> Documents/RRL.pdf
+2026-02-14 14:23:21,973 - INFO - Moved: Ryan-Gosling-as-Noah-in-front-of-house-in-The-Notebook.jpg -> Pictures/Ryan-Gosling-as-Noah-in-front-of-house-in-The-Notebook.jpg
+2026-02-14 14:23:21,973 - INFO - Moved: Sabina-Full Mnuscript-.pdf -> Documents/Sabina-Full Mnuscript-.pdf
+2026-02-14 14:23:21,984 - INFO - Moved: sales-invoice-4.pdf -> Documents/sales-invoice-4.pdf
+2026-02-14 14:23:21,986 - INFO - Moved: Sales_Invoice_INV-20260119-Z8UJ5T.pdf -> Documents/Sales_Invoice_INV-20260119-Z8UJ5T.pdf
+2026-02-14 14:23:21,988 - INFO - Moved: Sales_Invoice_INV-20260125-6GZ7WU.pdf -> Documents/Sales_Invoice_INV-20260125-6GZ7WU.pdf
+2026-02-14 14:23:21,990 - INFO - Moved: Sales_Invoice_INV-20260201-05W95Z.pdf -> Documents/Sales_Invoice_INV-20260201-05W95Z.pdf
+2026-02-14 14:23:21,992 - INFO - Moved: Sales_Invoice_INV-20260201-CTEMNZ.pdf -> Documents/Sales_Invoice_INV-20260201-CTEMNZ.pdf
+2026-02-14 14:23:21,992 - INFO - Moved: Sales_Invoice_INV-20260201-IS4W18.pdf -> Documents/Sales_Invoice_INV-20260201-IS4W18.pdf
+2026-02-14 14:23:21,992 - INFO - Moved: Sales_Invoice_INV-20260204-8CVLOO.pdf -> Documents/Sales_Invoice_INV-20260204-8CVLOO.pdf
+2026-02-14 14:23:21,997 - INFO - Moved: Sales_Invoice_INV-20260207-JEVTUZ.pdf -> Documents/Sales_Invoice_INV-20260207-JEVTUZ.pdf
+2026-02-14 14:23:21,999 - INFO - Moved: Sales_Invoice_INV-20260208-10CHVK.pdf -> Documents/Sales_Invoice_INV-20260208-10CHVK.pdf
+2026-02-14 14:23:21,999 - INFO - Moved: Sales_Invoice_INV-20260211-TXJRT7.pdf -> Documents/Sales_Invoice_INV-20260211-TXJRT7.pdf
+2026-02-14 14:23:21,999 - INFO - Moved: sample-certificate.pdf -> Documents/sample-certificate.pdf
+2026-02-14 14:23:22,006 - INFO - Moved: scrcpy-win64-v3.3.4.zip -> Archives/scrcpy-win64-v3.3.4.zip
+2026-02-14 14:23:22,008 - INFO - Moved: Screenshot 2025-10-10 230433.png -> Pictures/Screenshot 2025-10-10 230433.png
+2026-02-14 14:23:22,010 - INFO - Moved: Screenshot 2025-10-10 232401.png -> Pictures/Screenshot 2025-10-10 232401.png
+2026-02-14 14:23:22,012 - INFO - Moved: Screenshot 2025-11-29 232530.png -> Pictures/Screenshot 2025-11-29 232530.png
+2026-02-14 14:23:22,013 - INFO - Moved: Screenshot 2025-11-29 232555.png -> Pictures/Screenshot 2025-11-29 232555.png
+2026-02-14 14:23:22,015 - INFO - Moved: Screenshot 2025-11-30 095208.png -> Pictures/Screenshot 2025-11-30 095208.png
+2026-02-14 14:23:22,018 - INFO - Moved: Screenshot 2025-12-14 201701.png -> Pictures/Screenshot 2025-12-14 201701.png
+2026-02-14 14:23:22,019 - INFO - Moved: Screenshot 2026-01-13 111014.png -> Pictures/Screenshot 2026-01-13 111014.png
+2026-02-14 14:23:22,022 - INFO - Moved: Screenshot 2026-02-10 175742.png -> Pictures/Screenshot 2026-02-10 175742.png
+2026-02-14 14:23:22,025 - INFO - Moved: Screenshot_14-9-2025_02252_www.messenger.com.jpeg -> Pictures/Screenshot_14-9-2025_02252_www.messenger.com.jpeg
+2026-02-14 14:23:22,026 - INFO - Moved: sdasdsa.jpg -> Pictures/sdasdsa.jpg
+2026-02-14 14:23:22,026 - INFO - Moved: setting.png -> Pictures/setting.png
+2026-02-14 14:23:22,032 - INFO - Moved: SIA (4) (1).zip -> Archives/SIA (4) (1).zip
+2026-02-14 14:23:22,034 - INFO - Moved: SIA (4).zip -> Archives/SIA (4).zip
+2026-02-14 14:23:22,035 - INFO - Moved: SIC_01252.pdf -> Documents/SIC_01252.pdf
+2026-02-14 14:23:22,037 - INFO - Moved: SIC_01252.pdf.pdf -> Documents/SIC_01252.pdf.pdf
+2026-02-14 14:23:22,040 - INFO - Moved: Sign in - Google Accounts.html -> Others/Sign in - Google Accounts.html
+2026-02-14 14:23:22,042 - INFO - Moved: signing-key-info.txt -> Documents/signing-key-info.txt
+2026-02-14 14:23:22,042 - INFO - Moved: signing.keystore -> Others/signing.keystore
+2026-02-14 14:23:22,047 - INFO - Moved: simple-chat-app-rtdb.html -> Others/simple-chat-app-rtdb.html
+2026-02-14 14:23:22,049 - INFO - Moved: slim-container.jpg -> Pictures/slim-container.jpg
+2026-02-14 14:23:22,051 - INFO - Moved: SpotifySetup.exe -> Others/SpotifySetup.exe
+2026-02-14 14:23:22,051 - INFO - Moved: SteamSetup.exe -> Others/SteamSetup.exe
+2026-02-14 14:23:22,056 - INFO - Moved: Steps.jpeg -> Pictures/Steps.jpeg
+2026-02-14 14:23:22,059 - INFO - Moved: Sultan-Ruhi-Lakhani-2018-IS-Conf-Proceedings-Lisbon.pdf -> Documents/Sultan-Ruhi-Lakhani-2018-IS-Conf-Proceedings-Lisbon.pdf
+2026-02-14 14:23:22,061 - INFO - Moved: summary.docx -> Documents/summary.docx
+2026-02-14 14:23:22,063 - INFO - Moved: Systems Integration Case Studies (1).pdf -> Documents/Systems Integration Case Studies (1).pdf
+2026-02-14 14:23:22,065 - INFO - Moved: Systems Integration Case Studies (2).pdf -> Documents/Systems Integration Case Studies (2).pdf
+2026-02-14 14:23:22,067 - INFO - Moved: Systems Integration Case Studies (3).pdf -> Documents/Systems Integration Case Studies (3).pdf
+2026-02-14 14:23:22,069 - INFO - Moved: Systems Integration Case Studies.pdf -> Documents/Systems Integration Case Studies.pdf
+2026-02-14 14:23:22,071 - INFO - Moved: Systems Integration Presentation.mp4 -> Video/Systems Integration Presentation.mp4
+2026-02-14 14:23:22,074 - INFO - Moved: Tech Nexus Certificate of Recognition.pdf -> Documents/Tech Nexus Certificate of Recognition.pdf
+2026-02-14 14:23:22,075 - INFO - Moved: Telegram AI.json -> Others/Telegram AI.json
+2026-02-14 14:23:22,080 - INFO - Moved: test.bib -> Others/test.bib
+2026-02-14 14:23:22,082 - INFO - Moved: Tester_Villegas.mp4 -> Video/Tester_Villegas.mp4
+2026-02-14 14:23:22,084 - INFO - Moved: The Summit Veiled in White.pdf -> Documents/The Summit Veiled in White.pdf
+2026-02-14 14:23:22,086 - INFO - Moved: The.Shining.1980.1080p.BluRay.x264-[YTS.AM]-en.srt -> Others/The.Shining.1980.1080p.BluRay.x264-[YTS.AM]-en.srt
+2026-02-14 14:23:22,086 - INFO - Moved: The_Use_of_Blockchain_within_Evidence_Ma.pdf -> Documents/The_Use_of_Blockchain_within_Evidence_Ma.pdf
+2026-02-14 14:23:22,091 - INFO - Moved: TLauncher-Installer-1.9.5.1.exe -> Others/TLauncher-Installer-1.9.5.1.exe
+2026-02-14 14:23:22,093 - INFO - Moved: tor-browser-windows-x86_64-portable-14.5.7.exe -> Others/tor-browser-windows-x86_64-portable-14.5.7.exe
+2026-02-14 14:23:22,093 - INFO - Moved: tportable-x64.5.15.4.zip -> Archives/tportable-x64.5.15.4.zip
+2026-02-14 14:23:22,097 - INFO - Moved: transfer_requests.csv -> Documents/transfer_requests.csv
+2026-02-14 14:23:22,099 - INFO - Moved: Tree-7.5-Pre-Lit-Plain.jpg -> Pictures/Tree-7.5-Pre-Lit-Plain.jpg
+2026-02-14 14:23:22,101 - INFO - Moved: TrustChain (1).pdf -> Documents/TrustChain (1).pdf
+2026-02-14 14:23:22,101 - INFO - Moved: TrustChain.pdf -> Documents/TrustChain.pdf
+2026-02-14 14:23:22,107 - INFO - Moved: TrustChain_ Blockchain Vehicle Registration Capstone.mp4 -> Video/TrustChain_ Blockchain Vehicle Registration Capstone.mp4
+2026-02-14 14:23:22,109 - INFO - Moved: TrustChain_ Revolutionizing Vehicle Registration with Blockchain Technology.pdf -> Documents/TrustChain_ Revolutionizing Vehicle Registration with Blockchain Technology.pdf
+2026-02-14 14:23:22,113 - INFO - Moved: TrustChain_Interview_Letter.pdf -> Documents/TrustChain_Interview_Letter.pdf
+2026-02-14 14:23:22,114 - INFO - Moved: tsetup-x64.5.15.4.exe -> Others/tsetup-x64.5.15.4.exe
+2026-02-14 14:23:22,119 - INFO - Moved: tulip.ico -> Others/tulip.ico
+2026-02-14 14:23:22,121 - INFO - Moved: tulip.png -> Pictures/tulip.png
+2026-02-14 14:23:22,121 - INFO - Moved: typespeed.pdf -> Documents/typespeed.pdf
+2026-02-14 14:23:22,121 - INFO - Moved: typespeed.PNG -> Pictures/typespeed.PNG
+2026-02-14 14:23:22,121 - INFO - Moved: UB LOST AND FOUND.zip -> Archives/UB LOST AND FOUND.zip
+2026-02-14 14:23:22,121 - INFO - Moved: UBACwIt-chap-1.docx -> Documents/UBACwIt-chap-1.docx
+2026-02-14 14:23:22,121 - INFO - Moved: UBACwIt_.pdf -> Documents/UBACwIt_.pdf
+2026-02-14 14:23:22,121 - INFO - Moved: UBelong-1 (1).pdf -> Documents/UBelong-1 (1).pdf
+2026-02-14 14:23:22,137 - INFO - Moved: UBelong-1.pdf -> Documents/UBelong-1.pdf
+2026-02-14 14:23:22,137 - INFO - Moved: UBLC Letterhead colored (with SOCOTEC Logo) (1).pdf -> Documents/UBLC Letterhead colored (with SOCOTEC Logo) (1).pdf
+2026-02-14 14:23:22,140 - INFO - Moved: ub_bg.jpg -> Pictures/ub_bg.jpg
+2026-02-14 14:23:22,140 - INFO - Moved: ub_logo.png -> Pictures/ub_logo.png
+2026-02-14 14:23:22,146 - INFO - Moved: univdata_tblteacher.sql -> Others/univdata_tblteacher.sql
+2026-02-14 14:23:22,149 - INFO - Moved: Untitled design (1).jpg -> Pictures/Untitled design (1).jpg
+2026-02-14 14:23:22,149 - INFO - Moved: Untitled design (1).png -> Pictures/Untitled design (1).png
+2026-02-14 14:23:22,149 - INFO - Moved: Untitled design (2).jpg -> Pictures/Untitled design (2).jpg
+2026-02-14 14:23:22,149 - INFO - Moved: Untitled design (2).png -> Pictures/Untitled design (2).png
+2026-02-14 14:23:22,159 - INFO - Moved: Untitled design (3).png -> Pictures/Untitled design (3).png
+2026-02-14 14:23:22,159 - INFO - Moved: Untitled design (4).png -> Pictures/Untitled design (4).png
+2026-02-14 14:23:22,159 - INFO - Moved: Untitled design.jpg -> Pictures/Untitled design.jpg
+2026-02-14 14:23:22,159 - INFO - Moved: Untitled design.pdf -> Documents/Untitled design.pdf
+2026-02-14 14:23:22,175 - INFO - Moved: Untitled design.png -> Pictures/Untitled design.png
+2026-02-14 14:23:22,175 - INFO - Moved: Untitled document (1).pdf -> Documents/Untitled document (1).pdf
+2026-02-14 14:23:22,182 - INFO - Moved: Untitled document (2).pdf -> Documents/Untitled document (2).pdf
+2026-02-14 14:23:22,182 - INFO - Moved: Untitled document (3).pdf -> Documents/Untitled document (3).pdf
+2026-02-14 14:23:22,182 - INFO - Moved: Untitled document.pdf -> Documents/Untitled document.pdf
+2026-02-14 14:23:22,182 - INFO - Moved: users.csv -> Documents/users.csv
+2026-02-14 14:23:22,182 - INFO - Moved: user_data.sql -> Others/user_data.sql
+2026-02-14 14:23:22,182 - INFO - Moved: utorrent_installer.exe -> Others/utorrent_installer.exe
+2026-02-14 14:23:22,198 - INFO - Moved: utweb_installer.exe -> Others/utweb_installer.exe
+2026-02-14 14:23:22,198 - INFO - Moved: Vehicle-Emission-Test-Certificate.pdf -> Documents/Vehicle-Emission-Test-Certificate.pdf
+2026-02-14 14:23:22,198 - INFO - Moved: Vehicle_Ownership_Tokenization_Exercise.docx -> Documents/Vehicle_Ownership_Tokenization_Exercise.docx
+2026-02-14 14:23:22,198 - INFO - Moved: Vehicle_Ownership_Tokenization_Presentation.pptx -> Documents/Vehicle_Ownership_Tokenization_Presentation.pptx
+2026-02-14 14:23:22,214 - INFO - Moved: ventoy-1.1.10-windows.zip -> Archives/ventoy-1.1.10-windows.zip
+2026-02-14 14:23:22,218 - INFO - Moved: vlc-3.0.21-win64.exe -> Others/vlc-3.0.21-win64.exe
+2026-02-14 14:23:22,219 - INFO - Moved: vlc-media-player-3.0.21-installer_I-PeyG1.exe -> Others/vlc-media-player-3.0.21-installer_I-PeyG1.exe
+2026-02-14 14:23:22,223 - INFO - Moved: VSCodeUserSetup-x64-1.107.1.exe -> Others/VSCodeUserSetup-x64-1.107.1.exe
+2026-02-14 14:23:22,224 - INFO - Moved: Where Real Magic Starts.png -> Pictures/Where Real Magic Starts.png
+2026-02-14 14:23:22,224 - INFO - Moved: Windows Notepad Installer.exe -> Others/Windows Notepad Installer.exe
+2026-02-14 14:23:22,229 - INFO - Moved: winrar-x64-712.exe -> Others/winrar-x64-712.exe
+2026-02-14 14:23:22,231 - INFO - Moved: winzip76.exe -> Others/winzip76.exe
+2026-02-14 14:23:22,234 - INFO - Moved: wwd.mp3juice.blog - Laufey - Lover Girl (Official Music Video) (320 KBps).mp3 -> Audio/wwd.mp3juice.blog - Laufey - Lover Girl (Official Music Video) (320 KBps).mp3
+2026-02-14 14:23:22,234 - INFO - Moved: xampp-windows-x64-8.2.12-0-VS16-installer.exe -> Others/xampp-windows-x64-8.2.12-0-VS16-installer.exe
+2026-02-14 14:23:22,234 - INFO - Moved: XAUUSD (Gold) Market Structure and Trading Sessions.pdf -> Documents/XAUUSD (Gold) Market Structure and Trading Sessions.pdf
+2026-02-14 14:23:22,234 - INFO - Moved: XAUUSD_2025-06-24_20-27-37.png -> Pictures/XAUUSD_2025-06-24_20-27-37.png
+2026-02-14 14:23:22,250 - INFO - Moved: zen.installer.exe -> Others/zen.installer.exe
+2026-02-14 14:23:22,250 - INFO - Moved: Zotero-7.0.20_x64_setup.exe -> Others/Zotero-7.0.20_x64_setup.exe
+2026-02-14 14:23:22,250 - INFO - Moved: _REFLECTION_BESMAR.pdf -> Documents/_REFLECTION_BESMAR.pdf
+2026-02-14 14:23:22,250 - INFO - Scan complete. Total files moved: 632
